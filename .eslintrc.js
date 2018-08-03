@@ -25,8 +25,10 @@ module.exports = {
     'generator-star-spacing': 'off',
     // allow debugger during development
     'no-debugger': process.env.NODE_ENV === 'production' ? 'error' : 'off',
+    // 关闭对空行的代码检查
     'space-before-function-paren': 0,
     // 取消空格的代码检查
-    'indent': 0
+    'indent': 0,
+    'no-tabs': 0
   }
 }

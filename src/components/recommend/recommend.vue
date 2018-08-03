@@ -39,6 +39,9 @@
   import {ERR_OK} from '@/api/config'
   import {getRecommend, getDiscList} from '@/api/recommend'
   import Slider from '@/base/slider/slider'
+  import Loading from '@/base/loading/loading'
+  import {playlistMixin} from 'common/js/mixin'
+  import {mapMutations} from 'vuex'
 
   export default {
     data() {
@@ -49,8 +52,9 @@
     },
     created() {
       this._getRecommend()
-      // this._getDiscList()
+      this._getDiscList()
     },
+    mixins: [playlistMixin],
     methods: {
       _getRecommend() {
         getRecommend().then((res) => {
@@ -62,7 +66,7 @@
             let firstitem = sliderdata[0]
             sliderdata.push(firstitem)
             sliderdata.unshift(lastitem)
-            console.log(sliderdata)
+            console.log(JSON.stringify(sliderdata))
             this.recommends = sliderdata
           }
         })
@@ -70,20 +74,36 @@
       _getDiscList() {
         getDiscList().then((res) => {
           if (res.code === ERR_OK) {
+            console.log(res.data)
             this.discList = res.data.list
           }
         })
       },
       loadImage() {
-        if (!this.checkloaded) {
+        if (!this.checkloaded) { // 只调一次
           this.checkloaded = true
           this.$refs.scroll.refresh()
         }
-      }
+      },
+      handlePlaylist(playlist) {
+        const bottom = playlist.length > 0 ? '60px' : ''
+        this.$refs.recommend.style.bottom = bottom
+        this.$refs.scroll.refresh()
+      },
+      selectItem(item) {
+        this.$router.push({
+          path: `/recommend/${item.dissid}`
+        })
+        this.setDisc(item)
+      },
+      ...mapMutations({
+        setDisc: 'SET_DISC'
+      })
     },
     components: {
       Slider,
-      Scroll
+      Scroll,
+      Loading
     }
   }
 </script>
@@ -123,6 +143,7 @@
             display: flex
             flex-direction: column
             justify-content: center
+            text-align left
             flex: 1
             line-height: 20px
             overflow: hidden
