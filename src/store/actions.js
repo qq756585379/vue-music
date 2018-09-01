@@ -1,4 +1,4 @@
-import * as types from './mutation-types'
+import * as types from './types'
 import {playMode} from 'common/js/config'
 import {shuffle} from 'common/js/util'
 import {saveSearch, clearSearch, deleteSearch, savePlay, saveFavorite, deleteFavorite} from 'common/js/cache'
@@ -57,9 +57,7 @@ export const insertSong = function ({commit, state}, song) {
   }
 
   let currentSIndex = findIndex(sequenceList, currentSong) + 1
-
   let fsIndex = findIndex(sequenceList, song)
-
   sequenceList.splice(currentSIndex, 0, song)
 
   if (fsIndex > -1) {

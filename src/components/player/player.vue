@@ -584,7 +584,7 @@
           display: flex
           align-items: center
           width: 80%
-          margin: 0px auto
+          margin: 0 auto
           padding: 10px 0
           .time
             color: $color-text

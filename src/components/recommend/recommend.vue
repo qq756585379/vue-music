@@ -36,7 +36,6 @@
 
 <script type="text/ecmascript-6">
   import Scroll from '@/base/scroll/scroll'
-  import {ERR_OK} from '@/api/config'
   import {getRecommend, getDiscList} from '@/api/recommend'
   import Slider from '@/base/slider/slider'
   import Loading from '@/base/loading/loading'
@@ -58,7 +57,7 @@
     methods: {
       _getRecommend() {
         getRecommend().then((res) => {
-          if (res.code === ERR_OK) {
+          if (res.code === 0) {
             let sliderdata = res.data.slider
             sliderdata.shift()
             sliderdata.shift()
@@ -73,7 +72,7 @@
       },
       _getDiscList() {
         getDiscList().then((res) => {
-          if (res.code === ERR_OK) {
+          if (res.code === 0) {
             console.log(res.data)
             this.discList = res.data.list
           }
