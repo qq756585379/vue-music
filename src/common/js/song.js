@@ -18,7 +18,6 @@ export default class Song {
     if (this.lyric) {
       return Promise.resolve(this.lyric)
     }
-
     return new Promise((resolve, reject) => {
       getLyric(this.mid).then((res) => {
         if (res.retcode === ERR_OK) {
@@ -41,7 +40,8 @@ export function createSong(musicData) {
     album: musicData.albumname,
     duration: musicData.interval,
     image: `https://y.gtimg.cn/music/photo_new/T002R300x300M000${musicData.albummid}.jpg?max_age=2592000`,
-    url: `http://ws.stream.qqmusic.qq.com/${musicData.songid}.m4a?fromtag=46`
+    // url: `http://ws.stream.qqmusic.qq.com/${musicData.songid}.m4a?fromtag=46`
+    url: `http://sc.sycdn.kuwo.cn/resource/n3/67/87/1180459348.mp3`
   })
 }
 

@@ -7,7 +7,6 @@ export function addClass(el, className) {
   if (hasClass(el, className)) {
     return
   }
-
   let newClass = el.className.split(' ')
   newClass.push(className)
   el.className = newClass.join(' ')
@@ -23,6 +22,7 @@ export function getData(el, name, val) {
 
 let elementStyle = document.createElement('div').style
 
+// 立即执行函数，去判断浏览器transform别名
 let vendor = (() => {
   let transformNames = {
     webkit: 'webkitTransform',
@@ -31,13 +31,12 @@ let vendor = (() => {
     ms: 'msTransform',
     standard: 'transform'
   }
-
   for (let key in transformNames) {
-    if (elementStyle[transformNames[key]] !== undefined) {
+    let transformName = transformNames[key]
+    if (elementStyle[transformName] !== undefined) {
       return key
     }
   }
-
   return false
 })()
 
@@ -45,10 +44,9 @@ export function prefixStyle(style) {
   if (vendor === false) {
     return false
   }
-
   if (vendor === 'standard') {
     return style
   }
-
+  // backdrop-filter  webkitBackdrop-filter
   return vendor + style.charAt(0).toUpperCase() + style.substr(1)
 }

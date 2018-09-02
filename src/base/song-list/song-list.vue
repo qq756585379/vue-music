@@ -72,6 +72,7 @@
           width: 25px
           height: 24px
           background-size: 25px 24px
+          border: solid 1px red
           &.icon0
             bg-image('first')
           &.icon1
@@ -85,6 +86,7 @@
         flex: 1
         line-height: 20px
         overflow: hidden
+        text-align: left
         .name
           no-wrap()
           color: $color-text

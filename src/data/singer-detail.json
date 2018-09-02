@@ -1,0 +1,5407 @@
+{
+  "list": [
+    {
+      "Flisten_count1": 0,
+      "Fupload_time": "2018-07-25 18:40:02",
+      "index": 1,
+      "isnew": 1,
+      "listenCount": 0,
+      "musicData": {
+        "albumdesc": "",
+        "albumid": 4246626,
+        "albummid": "000gCu9F4cwL7S",
+        "albumname": "最好",
+        "alertid": 11,
+        "belongCD": 1,
+        "cdIdx": 0,
+        "interval": 255,
+        "isonly": 0,
+        "label": "0",
+        "msgid": 0,
+        "pay": {
+          "payalbum": 0,
+          "payalbumprice": 0,
+          "paydownload": 0,
+          "payinfo": 0,
+          "payplay": 0,
+          "paytrackmouth": 0,
+          "paytrackprice": 0,
+          "timefree": 0
+        },
+        "preview": {
+          "trybegin": 0,
+          "tryend": 0,
+          "trysize": 0
+        },
+        "rate": 31,
+        "singer": [
+          {
+            "id": 5062,
+            "mid": "002J4UUk29y8BY",
+            "name": "薛之谦"
+          }
+        ],
+        "size128": 4089084,
+        "size320": 10222426,
+        "size5_1": 0,
+        "sizeape": 24203799,
+        "sizeflac": 24460652,
+        "sizeogg": 5385282,
+        "songid": 215100802,
+        "songmid": "0024vbNZ4bQz74",
+        "songname": "最好",
+        "songorig": "最好",
+        "songtype": 0,
+        "strMediaMid": "0024vbNZ4bQz74",
+        "stream": 13,
+        "switch": 605971,
+        "type": 0,
+        "vid": "o0027zulz0m"
+      },
+      "playurl": "",
+      "price": 320,
+      "vid": {
+        "Fmv_id": "1478800",
+        "Fstatus": "1",
+        "Fvid": "o0027zulz0m"
+      }
+    },
+    {
+      "Flisten_count1": 0,
+      "Fupload_time": "2015-06-04 15:47:51",
+      "index": 2,
+      "isnew": 0,
+      "listenCount": 0,
+      "musicData": {
+        "albumdesc": "",
+        "albumid": 989994,
+        "albummid": "003y8dsH2wBHlo",
+        "albumname": "绅士",
+        "alertid": 11,
+        "belongCD": 2,
+        "cdIdx": 0,
+        "interval": 261,
+        "isonly": 0,
+        "label": "5764607523038429185",
+        "msgid": 0,
+        "pay": {
+          "payalbum": 0,
+          "payalbumprice": 0,
+          "paydownload": 0,
+          "payinfo": 0,
+          "payplay": 0,
+          "paytrackmouth": 0,
+          "paytrackprice": 0,
+          "timefree": 0
+        },
+        "preview": {
+          "trybegin": 62228,
+          "tryend": 104602,
+          "trysize": 0
+        },
+        "rate": 31,
+        "singer": [
+          {
+            "id": 5062,
+            "mid": "002J4UUk29y8BY",
+            "name": "薛之谦"
+          }
+        ],
+        "size128": 4181035,
+        "size320": 10452304,
+        "size5_1": 0,
+        "sizeape": 25162477,
+        "sizeflac": 25495240,
+        "sizeogg": 5637851,
+        "songid": 102636799,
+        "songmid": "001Qu4I30eVFYb",
+        "songname": "演员",
+        "songorig": "演员",
+        "songtype": 0,
+        "strMediaMid": "001Qu4I30eVFYb",
+        "stream": 13,
+        "switch": 605971,
+        "type": 0,
+        "vid": "o0016t2ucce"
+      },
+      "playurl": "",
+      "price": 320,
+      "vid": {
+        "Fmv_id": "370246",
+        "Fstatus": "1",
+        "Fvid": "o0016t2ucce"
+      }
+    },
+    {
+      "Flisten_count1": 0,
+      "Fupload_time": "2018-06-25 17:42:20",
+      "index": 3,
+      "isnew": 1,
+      "listenCount": 0,
+      "musicData": {
+        "albumdesc": "",
+        "albumid": 4095800,
+        "albummid": "004RThJi4G1v0A",
+        "albumname": "怪咖",
+        "alertid": 11,
+        "belongCD": 1,
+        "cdIdx": 0,
+        "interval": 250,
+        "isonly": 0,
+        "label": "0",
+        "msgid": 0,
+        "pay": {
+          "payalbum": 0,
+          "payalbumprice": 0,
+          "paydownload": 0,
+          "payinfo": 0,
+          "payplay": 0,
+          "paytrackmouth": 0,
+          "paytrackprice": 0,
+          "timefree": 0
+        },
+        "preview": {
+          "trybegin": 0,
+          "tryend": 0,
+          "trysize": 0
+        },
+        "rate": 31,
+        "singer": [
+          {
+            "id": 5062,
+            "mid": "002J4UUk29y8BY",
+            "name": "薛之谦"
+          }
+        ],
+        "size128": 4009254,
+        "size320": 10022298,
+        "size5_1": 0,
+        "sizeape": 25485771,
+        "sizeflac": 25563631,
+        "sizeogg": 5453087,
+        "songid": 214182478,
+        "songmid": "003FFWnA3AIczD",
+        "songname": "怪咖",
+        "songorig": "怪咖",
+        "songtype": 0,
+        "strMediaMid": "003FFWnA3AIczD",
+        "stream": 13,
+        "switch": 605971,
+        "type": 0,
+        "vid": "r0026ra3qfe"
+      },
+      "playurl": "",
+      "price": 320,
+      "vid": {
+        "Fmv_id": "1475865",
+        "Fstatus": "1",
+        "Fvid": "r0026ra3qfe"
+      }
+    },
+    {
+      "Flisten_count1": 0,
+      "Fupload_time": "2016-06-06 17:33:36",
+      "index": 4,
+      "isnew": 0,
+      "listenCount": 0,
+      "musicData": {
+        "albumdesc": "《我与你的光年距离》网络剧主题曲",
+        "albumid": 1376305,
+        "albummid": "000dcZ9I1nzO62",
+        "albumname": "初学者",
+        "alertid": 11,
+        "belongCD": 2,
+        "cdIdx": 0,
+        "interval": 250,
+        "isonly": 0,
+        "label": "4611686018431582209",
+        "msgid": 0,
+        "pay": {
+          "payalbum": 0,
+          "payalbumprice": 0,
+          "paydownload": 0,
+          "payinfo": 0,
+          "payplay": 0,
+          "paytrackmouth": 0,
+          "paytrackprice": 0,
+          "timefree": 0
+        },
+        "preview": {
+          "trybegin": 75942,
+          "tryend": 108831,
+          "trysize": 0
+        },
+        "rate": 31,
+        "singer": [
+          {
+            "id": 5062,
+            "mid": "002J4UUk29y8BY",
+            "name": "薛之谦"
+          }
+        ],
+        "size128": 4008840,
+        "size320": 10021810,
+        "size5_1": 0,
+        "sizeape": 24063937,
+        "sizeflac": 24163825,
+        "sizeogg": 5448304,
+        "songid": 107192538,
+        "songmid": "001TXSYu1Gwuwv",
+        "songname": "刚刚好",
+        "songorig": "刚刚好",
+        "songtype": 0,
+        "strMediaMid": "001TXSYu1Gwuwv",
+        "stream": 13,
+        "switch": 605971,
+        "type": 0,
+        "vid": "c00200si22o"
+      },
+      "playurl": "",
+      "price": 320,
+      "vid": {
+        "Fmv_id": "752523",
+        "Fstatus": "1",
+        "Fvid": "c00200si22o"
+      }
+    },
+    {
+      "Flisten_count1": 0,
+      "Fupload_time": "2013-12-12 15:49:12",
+      "index": 5,
+      "isnew": 0,
+      "listenCount": 0,
+      "musicData": {
+        "albumdesc": "《如果我爱你》电视剧插曲",
+        "albumid": 443691,
+        "albummid": "000QgFcm0v8WaF",
+        "albumname": "意外",
+        "alertid": 11,
+        "belongCD": 1,
+        "cdIdx": 0,
+        "interval": 248,
+        "isonly": 0,
+        "label": "4611686018431582209",
+        "msgid": 0,
+        "pay": {
+          "payalbum": 0,
+          "payalbumprice": 0,
+          "paydownload": 0,
+          "payinfo": 0,
+          "payplay": 0,
+          "paytrackmouth": 0,
+          "paytrackprice": 0,
+          "timefree": 0
+        },
+        "preview": {
+          "trybegin": 54120,
+          "tryend": 82590,
+          "trysize": 0
+        },
+        "rate": 31,
+        "singer": [
+          {
+            "id": 5062,
+            "mid": "002J4UUk29y8BY",
+            "name": "薛之谦"
+          }
+        ],
+        "size128": 3976059,
+        "size320": 9940306,
+        "size5_1": 0,
+        "sizeape": 24752290,
+        "sizeflac": 24839861,
+        "sizeogg": 5464529,
+        "songid": 5106429,
+        "songmid": "000QwTVo0YHdcP",
+        "songname": "丑八怪",
+        "songorig": "丑八怪",
+        "songtype": 0,
+        "strMediaMid": "000QwTVo0YHdcP",
+        "stream": 13,
+        "switch": 605971,
+        "type": 0,
+        "vid": "u00139g552o"
+      },
+      "playurl": "",
+      "price": 320,
+      "vid": {
+        "Fmv_id": "245763",
+        "Fstatus": "1",
+        "Fvid": "u00139g552o"
+      }
+    },
+    {
+      "Flisten_count1": 0,
+      "Fupload_time": "2018-05-09 17:22:05",
+      "index": 6,
+      "isnew": 0,
+      "listenCount": 0,
+      "musicData": {
+        "albumdesc": "",
+        "albumid": 4041003,
+        "albummid": "000JOrf02Iy29a",
+        "albumname": "哑巴",
+        "alertid": 11,
+        "belongCD": 1,
+        "cdIdx": 0,
+        "interval": 261,
+        "isonly": 0,
+        "label": "0",
+        "msgid": 0,
+        "pay": {
+          "payalbum": 0,
+          "payalbumprice": 0,
+          "paydownload": 0,
+          "payinfo": 0,
+          "payplay": 0,
+          "paytrackmouth": 0,
+          "paytrackprice": 0,
+          "timefree": 0
+        },
+        "preview": {
+          "trybegin": 0,
+          "tryend": 0,
+          "trysize": 0
+        },
+        "rate": 31,
+        "singer": [
+          {
+            "id": 5062,
+            "mid": "002J4UUk29y8BY",
+            "name": "薛之谦"
+          }
+        ],
+        "size128": 4178110,
+        "size320": 10444254,
+        "size5_1": 0,
+        "sizeape": 23000391,
+        "sizeflac": 22821300,
+        "sizeogg": 5491539,
+        "songid": 213902413,
+        "songmid": "003TfyNp47dm7E",
+        "songname": "哑巴",
+        "songorig": "哑巴",
+        "songtype": 0,
+        "strMediaMid": "003TfyNp47dm7E",
+        "stream": 13,
+        "switch": 605971,
+        "type": 0,
+        "vid": "y0026mp9yyp"
+      },
+      "playurl": "",
+      "price": 320,
+      "vid": {
+        "Fmv_id": "1463697",
+        "Fstatus": "1",
+        "Fvid": "y0026mp9yyp"
+      }
+    },
+    {
+      "Flisten_count1": 0,
+      "Fupload_time": "2017-04-10 18:25:29",
+      "index": 7,
+      "isnew": 0,
+      "listenCount": 0,
+      "musicData": {
+        "albumdesc": "",
+        "albumid": 3310789,
+        "albummid": "001L7UIu3GXVtT",
+        "albumname": "渡 The Crossing",
+        "alertid": 100000,
+        "belongCD": 2,
+        "cdIdx": 0,
+        "interval": 312,
+        "isonly": 0,
+        "label": "0",
+        "msgid": 0,
+        "pay": {
+          "payalbum": 0,
+          "payalbumprice": 0,
+          "paydownload": 0,
+          "payinfo": 1,
+          "payplay": 0,
+          "paytrackmouth": 1,
+          "paytrackprice": 0,
+          "timefree": 1
+        },
+        "preview": {
+          "trybegin": 92439,
+          "tryend": 128880,
+          "trysize": 0
+        },
+        "rate": 31,
+        "singer": [
+          {
+            "id": 5062,
+            "mid": "002J4UUk29y8BY",
+            "name": "薛之谦"
+          }
+        ],
+        "size128": 4996474,
+        "size320": 12490900,
+        "size5_1": 0,
+        "sizeape": 30672085,
+        "sizeflac": 30762837,
+        "sizeogg": 6353333,
+        "songid": 201697348,
+        "songmid": "003v4UL61IYlTY",
+        "songname": "暧昧",
+        "songorig": "暧昧",
+        "songtype": 0,
+        "strMediaMid": "003v4UL61IYlTY",
+        "stream": 13,
+        "switch": 638847,
+        "type": 0,
+        "vid": "q0023pztkcy"
+      },
+      "playurl": "",
+      "price": 320,
+      "vid": {
+        "Fmv_id": "1275189",
+        "Fstatus": "1",
+        "Fvid": "q0023pztkcy"
+      }
+    },
+    {
+      "Flisten_count1": 0,
+      "Fupload_time": "2013-12-12 15:49:12",
+      "index": 8,
+      "isnew": 0,
+      "listenCount": 0,
+      "musicData": {
+        "albumdesc": "《妈妈像花儿一样》电视剧片尾曲|《如果我爱你》电视剧插曲",
+        "albumid": 443691,
+        "albummid": "000QgFcm0v8WaF",
+        "albumname": "意外",
+        "alertid": 11,
+        "belongCD": 3,
+        "cdIdx": 0,
+        "interval": 310,
+        "isonly": 0,
+        "label": "4611686018431582209",
+        "msgid": 0,
+        "pay": {
+          "payalbum": 0,
+          "payalbumprice": 0,
+          "paydownload": 0,
+          "payinfo": 0,
+          "payplay": 0,
+          "paytrackmouth": 0,
+          "paytrackprice": 0,
+          "timefree": 0
+        },
+        "preview": {
+          "trybegin": 102150,
+          "tryend": 138390,
+          "trysize": 0
+        },
+        "rate": 31,
+        "singer": [
+          {
+            "id": 5062,
+            "mid": "002J4UUk29y8BY",
+            "name": "薛之谦"
+          }
+        ],
+        "size128": 4976412,
+        "size320": 12440745,
+        "size5_1": 0,
+        "sizeape": 27648291,
+        "sizeflac": 27597666,
+        "sizeogg": 6391174,
+        "songid": 5106430,
+        "songmid": "002BWGZQ2UKjKn",
+        "songname": "你还要我怎样",
+        "songorig": "你还要我怎样",
+        "songtype": 0,
+        "strMediaMid": "002BWGZQ2UKjKn",
+        "stream": 13,
+        "switch": 605971,
+        "type": 0,
+        "vid": "y00131c5aqf"
+      },
+      "playurl": "",
+      "price": 320,
+      "vid": {
+        "Fmv_id": "268529",
+        "Fstatus": "1",
+        "Fvid": "y00131c5aqf"
+      }
+    },
+    {
+      "Flisten_count1": 0,
+      "Fupload_time": "2015-05-19 17:22:29",
+      "index": 9,
+      "isnew": 0,
+      "listenCount": 0,
+      "musicData": {
+        "albumdesc": "《是！尚先生》电视剧插曲|《记忆清除者》网络大电影插曲",
+        "albumid": 989994,
+        "albummid": "003y8dsH2wBHlo",
+        "albumname": "绅士",
+        "alertid": 11,
+        "belongCD": 1,
+        "cdIdx": 0,
+        "interval": 290,
+        "isonly": 0,
+        "label": "5764607658329899009",
+        "msgid": 0,
+        "pay": {
+          "payalbum": 0,
+          "payalbumprice": 0,
+          "paydownload": 0,
+          "payinfo": 0,
+          "payplay": 0,
+          "paytrackmouth": 0,
+          "paytrackprice": 0,
+          "timefree": 0
+        },
+        "preview": {
+          "trybegin": 61502,
+          "tryend": 127959,
+          "trysize": 0
+        },
+        "rate": 31,
+        "singer": [
+          {
+            "id": 5062,
+            "mid": "002J4UUk29y8BY",
+            "name": "薛之谦"
+          }
+        ],
+        "size128": 4657091,
+        "size320": 11642443,
+        "size5_1": 0,
+        "sizeape": 30841687,
+        "sizeflac": 31815508,
+        "sizeogg": 6447358,
+        "songid": 102425546,
+        "songmid": "001CG3wA3QkuJS",
+        "songname": "绅士",
+        "songorig": "绅士",
+        "songtype": 0,
+        "strMediaMid": "001CG3wA3QkuJS",
+        "stream": 13,
+        "switch": 605971,
+        "type": 0,
+        "vid": "z0016p7fv5s"
+      },
+      "playurl": "",
+      "price": 320,
+      "vid": {
+        "Fmv_id": "354285",
+        "Fstatus": "1",
+        "Fvid": "z0016p7fv5s"
+      }
+    },
+    {
+      "Flisten_count1": 0,
+      "Fupload_time": "2018-05-16 16:15:03",
+      "index": 10,
+      "isnew": 0,
+      "listenCount": 0,
+      "musicData": {
+        "albumdesc": "",
+        "albumid": 4048580,
+        "albummid": "002GH0pj1uSvV9",
+        "albumname": "肆无忌惮",
+        "alertid": 11,
+        "belongCD": 1,
+        "cdIdx": 0,
+        "interval": 259,
+        "isonly": 0,
+        "label": "0",
+        "msgid": 0,
+        "pay": {
+          "payalbum": 0,
+          "payalbumprice": 0,
+          "paydownload": 0,
+          "payinfo": 0,
+          "payplay": 0,
+          "paytrackmouth": 0,
+          "paytrackprice": 0,
+          "timefree": 0
+        },
+        "preview": {
+          "trybegin": 0,
+          "tryend": 0,
+          "trysize": 0
+        },
+        "rate": 31,
+        "singer": [
+          {
+            "id": 5062,
+            "mid": "002J4UUk29y8BY",
+            "name": "薛之谦"
+          }
+        ],
+        "size128": 4160145,
+        "size320": 10400067,
+        "size5_1": 0,
+        "sizeape": 22984223,
+        "sizeflac": 23087774,
+        "sizeogg": 5409461,
+        "songid": 213942399,
+        "songmid": "000QCwge3B6Ad1",
+        "songname": "肆无忌惮",
+        "songorig": "肆无忌惮",
+        "songtype": 0,
+        "strMediaMid": "000QCwge3B6Ad1",
+        "stream": 13,
+        "switch": 605971,
+        "type": 0,
+        "vid": "m00264oe1u6"
+      },
+      "playurl": "",
+      "price": 320,
+      "vid": {
+        "Fmv_id": "1464576",
+        "Fstatus": "1",
+        "Fvid": "m00264oe1u6"
+      }
+    },
+    {
+      "Flisten_count1": 0,
+      "Fupload_time": "2013-12-12 17:35:00",
+      "index": 11,
+      "isnew": 0,
+      "listenCount": 0,
+      "musicData": {
+        "albumdesc": "《如果我爱你》电视剧插曲",
+        "albumid": 443691,
+        "albummid": "000QgFcm0v8WaF",
+        "albumname": "意外",
+        "alertid": 11,
+        "belongCD": 2,
+        "cdIdx": 0,
+        "interval": 287,
+        "isonly": 0,
+        "label": "4611686153727246337",
+        "msgid": 0,
+        "pay": {
+          "payalbum": 0,
+          "payalbumprice": 0,
+          "paydownload": 0,
+          "payinfo": 0,
+          "payplay": 0,
+          "paytrackmouth": 0,
+          "paytrackprice": 0,
+          "timefree": 0
+        },
+        "preview": {
+          "trybegin": 0,
+          "tryend": 0,
+          "trysize": 0
+        },
+        "rate": 31,
+        "singer": [
+          {
+            "id": 5062,
+            "mid": "002J4UUk29y8BY",
+            "name": "薛之谦"
+          }
+        ],
+        "size128": 4600248,
+        "size320": 11499711,
+        "size5_1": 0,
+        "sizeape": 33667879,
+        "sizeflac": 34031652,
+        "sizeogg": 6715496,
+        "songid": 5106590,
+        "songmid": "004dADLe4ec8RG",
+        "songname": "意外",
+        "songorig": "意外",
+        "songtype": 0,
+        "strMediaMid": "004dADLe4ec8RG",
+        "stream": 13,
+        "switch": 605971,
+        "type": 0,
+        "vid": "f00138jq44x"
+      },
+      "playurl": "",
+      "price": 320,
+      "vid": {
+        "Fmv_id": "266990",
+        "Fstatus": "1",
+        "Fvid": "f00138jq44x"
+      }
+    },
+    {
+      "Flisten_count1": 0,
+      "Fupload_time": "2016-06-23 19:43:47",
+      "index": 12,
+      "isnew": 0,
+      "listenCount": 0,
+      "musicData": {
+        "albumdesc": "《精灵王座》动画电影主题曲",
+        "albumid": 1376305,
+        "albummid": "000dcZ9I1nzO62",
+        "albumname": "初学者",
+        "alertid": 11,
+        "belongCD": 3,
+        "cdIdx": 0,
+        "interval": 279,
+        "isonly": 0,
+        "label": "4611686153723052033",
+        "msgid": 0,
+        "pay": {
+          "payalbum": 0,
+          "payalbumprice": 0,
+          "paydownload": 0,
+          "payinfo": 0,
+          "payplay": 0,
+          "paytrackmouth": 0,
+          "paytrackprice": 0,
+          "timefree": 0
+        },
+        "preview": {
+          "trybegin": 81592,
+          "tryend": 109469,
+          "trysize": 0
+        },
+        "rate": 31,
+        "singer": [
+          {
+            "id": 5062,
+            "mid": "002J4UUk29y8BY",
+            "name": "薛之谦"
+          }
+        ],
+        "size128": 4467779,
+        "size320": 11169128,
+        "size5_1": 0,
+        "sizeape": 26809411,
+        "sizeflac": 27226873,
+        "sizeogg": 6221376,
+        "songid": 107439472,
+        "songmid": "004VBMk71TdUuR",
+        "songname": "我好像在哪见过你",
+        "songorig": "我好像在哪见过你",
+        "songtype": 0,
+        "strMediaMid": "004VBMk71TdUuR",
+        "stream": 13,
+        "switch": 605971,
+        "type": 0,
+        "vid": "b0020rlv2g6"
+      },
+      "playurl": "",
+      "price": 320,
+      "vid": {
+        "Fmv_id": "806046",
+        "Fstatus": "1",
+        "Fvid": "b0020rlv2g6"
+      }
+    },
+    {
+      "Flisten_count1": 0,
+      "Fupload_time": "2012-04-27 15:43:34",
+      "index": 13,
+      "isnew": 0,
+      "listenCount": 0,
+      "musicData": {
+        "albumdesc": "《妈妈像花儿一样》电视剧插曲",
+        "albumid": 51504,
+        "albummid": "003mUYW22JXKVK",
+        "albumname": "薛之谦",
+        "alertid": 100002,
+        "belongCD": 2,
+        "cdIdx": 0,
+        "interval": 261,
+        "isonly": 1,
+        "label": "4611686153723052033",
+        "msgid": 14,
+        "pay": {
+          "payalbum": 0,
+          "payalbumprice": 0,
+          "paydownload": 1,
+          "payinfo": 1,
+          "payplay": 0,
+          "paytrackmouth": 1,
+          "paytrackprice": 200,
+          "timefree": 0
+        },
+        "preview": {
+          "trybegin": 61059,
+          "tryend": 98939,
+          "trysize": 0
+        },
+        "rate": 31,
+        "singer": [
+          {
+            "id": 5062,
+            "mid": "002J4UUk29y8BY",
+            "name": "薛之谦"
+          }
+        ],
+        "size128": 4183139,
+        "size320": 10457542,
+        "size5_1": 0,
+        "sizeape": 26868416,
+        "sizeflac": 26719567,
+        "sizeogg": 5486406,
+        "songid": 1333803,
+        "songmid": "001hUNRP0P8g7x",
+        "songname": "认真的雪",
+        "songorig": "认真的雪",
+        "songtype": 0,
+        "strMediaMid": "001hUNRP0P8g7x",
+        "stream": 13,
+        "switch": 17413891,
+        "type": 0,
+        "vid": "c00909gbzLn"
+      },
+      "playurl": "",
+      "price": 320,
+      "vid": {
+        "Fmv_id": "83637",
+        "Fstatus": "1",
+        "Fvid": "c00909gbzLn"
+      }
+    },
+    {
+      "Flisten_count1": 0,
+      "Fupload_time": "2012-12-26 17:44:15",
+      "index": 14,
+      "isnew": 0,
+      "listenCount": 0,
+      "musicData": {
+        "albumdesc": "《妈妈像花儿一样》电视剧插曲|《最熟悉的陌生人》微电影主题曲",
+        "albumid": 443691,
+        "albummid": "000QgFcm0v8WaF",
+        "albumname": "意外",
+        "alertid": 11,
+        "belongCD": 9,
+        "cdIdx": 0,
+        "interval": 263,
+        "isonly": 0,
+        "label": "5764607523042623489",
+        "msgid": 0,
+        "pay": {
+          "payalbum": 0,
+          "payalbumprice": 0,
+          "paydownload": 0,
+          "payinfo": 0,
+          "payplay": 0,
+          "paytrackmouth": 0,
+          "paytrackprice": 0,
+          "timefree": 0
+        },
+        "preview": {
+          "trybegin": 81171,
+          "tryend": 112020,
+          "trysize": 0
+        },
+        "rate": 31,
+        "singer": [
+          {
+            "id": 5062,
+            "mid": "002J4UUk29y8BY",
+            "name": "薛之谦"
+          }
+        ],
+        "size128": 4218242,
+        "size320": 10545308,
+        "size5_1": 0,
+        "sizeape": 26486257,
+        "sizeflac": 26683259,
+        "sizeogg": 5607977,
+        "songid": 3585639,
+        "songmid": "001RlxZp1xwoNK",
+        "songname": "方圆几里",
+        "songorig": "方圆几里",
+        "songtype": 0,
+        "strMediaMid": "001RlxZp1xwoNK",
+        "stream": 13,
+        "switch": 605971,
+        "type": 0,
+        "vid": "q00118hy3yb"
+      },
+      "playurl": "",
+      "price": 320,
+      "vid": {
+        "Fmv_id": "189393",
+        "Fstatus": "1",
+        "Fvid": "q00118hy3yb"
+      }
+    },
+    {
+      "Flisten_count1": 0,
+      "Fupload_time": "2018-06-07 21:27:58",
+      "index": 15,
+      "isnew": 1,
+      "listenCount": 0,
+      "musicData": {
+        "albumdesc": "",
+        "albumid": 4071741,
+        "albummid": "002RCBfC1QExPO",
+        "albumname": "那是你离开了北京的生活",
+        "alertid": 11,
+        "belongCD": 1,
+        "cdIdx": 0,
+        "interval": 268,
+        "isonly": 0,
+        "label": "0",
+        "msgid": 0,
+        "pay": {
+          "payalbum": 0,
+          "payalbumprice": 0,
+          "paydownload": 0,
+          "payinfo": 0,
+          "payplay": 0,
+          "paytrackmouth": 0,
+          "paytrackprice": 0,
+          "timefree": 0
+        },
+        "preview": {
+          "trybegin": 0,
+          "tryend": 0,
+          "trysize": 0
+        },
+        "rate": 31,
+        "singer": [
+          {
+            "id": 5062,
+            "mid": "002J4UUk29y8BY",
+            "name": "薛之谦"
+          }
+        ],
+        "size128": 4295592,
+        "size320": 10738642,
+        "size5_1": 0,
+        "sizeape": 24897577,
+        "sizeflac": 24771893,
+        "sizeogg": 5560738,
+        "songid": 214074153,
+        "songmid": "000fcbn33tw0lQ",
+        "songname": "那是你离开了北京的生活",
+        "songorig": "那是你离开了北京的生活",
+        "songtype": 0,
+        "strMediaMid": "000fcbn33tw0lQ",
+        "stream": 13,
+        "switch": 605971,
+        "type": 0,
+        "vid": "c0026kpyohb"
+      },
+      "playurl": "",
+      "price": 320,
+      "vid": {
+        "Fmv_id": "1474055",
+        "Fstatus": "1",
+        "Fvid": "c0026kpyohb"
+      }
+    },
+    {
+      "Flisten_count1": 0,
+      "Fupload_time": "2017-03-28 18:03:01",
+      "index": 16,
+      "isnew": 0,
+      "listenCount": 0,
+      "musicData": {
+        "albumdesc": "",
+        "albumid": 3310789,
+        "albummid": "001L7UIu3GXVtT",
+        "albumname": "渡 The Crossing",
+        "alertid": 100000,
+        "belongCD": 1,
+        "cdIdx": 0,
+        "interval": 230,
+        "isonly": 0,
+        "label": "0",
+        "msgid": 0,
+        "pay": {
+          "payalbum": 0,
+          "payalbumprice": 0,
+          "paydownload": 0,
+          "payinfo": 1,
+          "payplay": 0,
+          "paytrackmouth": 1,
+          "paytrackprice": 0,
+          "timefree": 1
+        },
+        "preview": {
+          "trybegin": 50977,
+          "tryend": 91963,
+          "trysize": 0
+        },
+        "rate": 31,
+        "singer": [
+          {
+            "id": 5062,
+            "mid": "002J4UUk29y8BY",
+            "name": "薛之谦"
+          }
+        ],
+        "size128": 3688687,
+        "size320": 9221422,
+        "size5_1": 0,
+        "sizeape": 21837777,
+        "sizeflac": 21794865,
+        "sizeogg": 4774149,
+        "songid": 201452010,
+        "songmid": "003RCA7t0y6du5",
+        "songname": "动物世界",
+        "songorig": "动物世界",
+        "songtype": 0,
+        "strMediaMid": "003RCA7t0y6du5",
+        "stream": 13,
+        "switch": 638847,
+        "type": 0,
+        "vid": "y0023sv6a2h"
+      },
+      "playurl": "",
+      "price": 320,
+      "vid": {
+        "Fmv_id": "1231833",
+        "Fstatus": "1",
+        "Fvid": "y0023sv6a2h"
+      }
+    },
+    {
+      "Flisten_count1": 0,
+      "Fupload_time": "2015-10-16 17:13:04",
+      "index": 17,
+      "isnew": 0,
+      "listenCount": 0,
+      "musicData": {
+        "albumdesc": "",
+        "albumid": 1174100,
+        "albummid": "000dEfCC2ccVxz",
+        "albumname": "一半",
+        "alertid": 11,
+        "belongCD": 1,
+        "cdIdx": 0,
+        "interval": 286,
+        "isonly": 0,
+        "label": "4611686153723052033",
+        "msgid": 0,
+        "pay": {
+          "payalbum": 0,
+          "payalbumprice": 0,
+          "paydownload": 0,
+          "payinfo": 0,
+          "payplay": 0,
+          "paytrackmouth": 0,
+          "paytrackprice": 0,
+          "timefree": 0
+        },
+        "preview": {
+          "trybegin": 82664,
+          "tryend": 121064,
+          "trysize": 0
+        },
+        "rate": 31,
+        "singer": [
+          {
+            "id": 5062,
+            "mid": "002J4UUk29y8BY",
+            "name": "薛之谦"
+          }
+        ],
+        "size128": 4577261,
+        "size320": 11442867,
+        "size5_1": 0,
+        "sizeape": 32539397,
+        "sizeflac": 32547352,
+        "sizeogg": 6375062,
+        "songid": 104792679,
+        "songmid": "003EKHdv2KvTc6",
+        "songname": "一半",
+        "songorig": "一半",
+        "songtype": 0,
+        "strMediaMid": "003EKHdv2KvTc6",
+        "stream": 13,
+        "switch": 605971,
+        "type": 0,
+        "vid": "c0018xoeads"
+      },
+      "playurl": "",
+      "price": 320,
+      "vid": {
+        "Fmv_id": "657279",
+        "Fstatus": "1",
+        "Fvid": "c0018xoeads"
+      }
+    },
+    {
+      "Flisten_count1": 0,
+      "Fupload_time": "2017-11-02 17:32:42",
+      "index": 18,
+      "isnew": 0,
+      "listenCount": 0,
+      "musicData": {
+        "albumdesc": "",
+        "albumid": 3310789,
+        "albummid": "001L7UIu3GXVtT",
+        "albumname": "渡 The Crossing",
+        "alertid": 100000,
+        "belongCD": 3,
+        "cdIdx": 0,
+        "interval": 255,
+        "isonly": 0,
+        "label": "0",
+        "msgid": 0,
+        "pay": {
+          "payalbum": 0,
+          "payalbumprice": 0,
+          "paydownload": 0,
+          "payinfo": 1,
+          "payplay": 0,
+          "paytrackmouth": 1,
+          "paytrackprice": 0,
+          "timefree": 1
+        },
+        "preview": {
+          "trybegin": 0,
+          "tryend": 0,
+          "trysize": 0
+        },
+        "rate": 31,
+        "singer": [
+          {
+            "id": 5062,
+            "mid": "002J4UUk29y8BY",
+            "name": "薛之谦"
+          }
+        ],
+        "size128": 4082823,
+        "size320": 10206761,
+        "size5_1": 0,
+        "sizeape": 25080361,
+        "sizeflac": 25007375,
+        "sizeogg": 5568158,
+        "songid": 207323048,
+        "songmid": "001uxKNp3a7Qkv",
+        "songname": "像风一样",
+        "songorig": "像风一样",
+        "songtype": 0,
+        "strMediaMid": "001uxKNp3a7Qkv",
+        "stream": 13,
+        "switch": 638847,
+        "type": 0,
+        "vid": "a00254ppfbr"
+      },
+      "playurl": "",
+      "price": 320,
+      "vid": {
+        "Fmv_id": "1442573",
+        "Fstatus": "1",
+        "Fvid": "a00254ppfbr"
+      }
+    },
+    {
+      "Flisten_count1": 0,
+      "Fupload_time": "2017-11-19 17:48:02",
+      "index": 19,
+      "isnew": 0,
+      "listenCount": 0,
+      "musicData": {
+        "albumdesc": "",
+        "albumid": 3238611,
+        "albummid": "001mH3KE1Z6Prd",
+        "albumname": "蒙面唱将猜猜猜第二季 第11期",
+        "alertid": 100011,
+        "belongCD": 2,
+        "cdIdx": 0,
+        "interval": 247,
+        "isonly": 1,
+        "label": "0",
+        "msgid": 0,
+        "pay": {
+          "payalbum": 0,
+          "payalbumprice": 0,
+          "paydownload": 1,
+          "payinfo": 1,
+          "payplay": 0,
+          "paytrackmouth": 1,
+          "paytrackprice": 200,
+          "timefree": 1
+        },
+        "preview": {
+          "trybegin": 0,
+          "tryend": 0,
+          "trysize": 0
+        },
+        "rate": 31,
+        "singer": [
+          {
+            "id": 5062,
+            "mid": "002J4UUk29y8BY",
+            "name": "薛之谦"
+          }
+        ],
+        "size128": 3967918,
+        "size320": 9919448,
+        "size5_1": 0,
+        "sizeape": 29759964,
+        "sizeflac": 29946239,
+        "sizeogg": 5468523,
+        "songid": 211612753,
+        "songmid": "002lSUhO4Z4J1o",
+        "songname": "天后 (Live)",
+        "songorig": "天后",
+        "songtype": 0,
+        "strMediaMid": "002lSUhO4Z4J1o",
+        "stream": 13,
+        "switch": 17415967,
+        "type": 0,
+        "vid": ""
+      },
+      "playurl": "",
+      "price": 320,
+      "vid": {
+        "Fstatus": null
+      }
+    },
+    {
+      "Flisten_count1": 0,
+      "Fupload_time": "2015-10-13 18:30:39",
+      "index": 20,
+      "isnew": 0,
+      "listenCount": 0,
+      "musicData": {
+        "albumdesc": "《妈妈像花儿一样》电视剧插曲",
+        "albumid": 443691,
+        "albummid": "000QgFcm0v8WaF",
+        "albumname": "意外",
+        "alertid": 11,
+        "belongCD": 8,
+        "cdIdx": 0,
+        "interval": 242,
+        "isonly": 0,
+        "label": "4611686018435776513",
+        "msgid": 0,
+        "pay": {
+          "payalbum": 0,
+          "payalbumprice": 0,
+          "paydownload": 0,
+          "payinfo": 0,
+          "payplay": 0,
+          "paytrackmouth": 0,
+          "paytrackprice": 0,
+          "timefree": 0
+        },
+        "preview": {
+          "trybegin": 85040,
+          "tryend": 117520,
+          "trysize": 0
+        },
+        "rate": 31,
+        "singer": [
+          {
+            "id": 5062,
+            "mid": "002J4UUk29y8BY",
+            "name": "薛之谦"
+          }
+        ],
+        "size128": 3875529,
+        "size320": 9688506,
+        "size5_1": 0,
+        "sizeape": 23020842,
+        "sizeflac": 23077883,
+        "sizeogg": 5197982,
+        "songid": 104775877,
+        "songmid": "003ouHMP12glVD",
+        "songname": "其实",
+        "songorig": "其实",
+        "songtype": 0,
+        "strMediaMid": "003ouHMP12glVD",
+        "stream": 13,
+        "switch": 605971,
+        "type": 0,
+        "vid": "q0013l5k1zx"
+      },
+      "playurl": "",
+      "price": 320,
+      "vid": {
+        "Fmv_id": "278842",
+        "Fstatus": "1",
+        "Fvid": "q0013l5k1zx"
+      }
+    },
+    {
+      "Flisten_count1": 0,
+      "Fupload_time": "2018-07-08 19:40:58",
+      "index": 21,
+      "isnew": 1,
+      "listenCount": 0,
+      "musicData": {
+        "albumdesc": "",
+        "albumid": 4121038,
+        "albummid": "003bixR51mDMhB",
+        "albumname": "无限歌谣季 第14期",
+        "alertid": 11,
+        "belongCD": 4,
+        "cdIdx": 0,
+        "interval": 341,
+        "isonly": 0,
+        "label": "0",
+        "msgid": 0,
+        "pay": {
+          "payalbum": 0,
+          "payalbumprice": 0,
+          "paydownload": 0,
+          "payinfo": 0,
+          "payplay": 0,
+          "paytrackmouth": 0,
+          "paytrackprice": 0,
+          "timefree": 0
+        },
+        "preview": {
+          "trybegin": 0,
+          "tryend": 0,
+          "trysize": 0
+        },
+        "rate": 31,
+        "singer": [
+          {
+            "id": 5062,
+            "mid": "002J4UUk29y8BY",
+            "name": "薛之谦"
+          },
+          {
+            "id": 945156,
+            "mid": "001OgCGE2H7kaD",
+            "name": "伊一"
+          }
+        ],
+        "size128": 5465046,
+        "size320": 13662271,
+        "size5_1": 0,
+        "sizeape": 34733795,
+        "sizeflac": 34705216,
+        "sizeogg": 7598371,
+        "songid": 214347217,
+        "songmid": "001mVT2H0kTW0R",
+        "songname": "了表心意 (Live)",
+        "songorig": "了表心意",
+        "songtype": 0,
+        "strMediaMid": "001mVT2H0kTW0R",
+        "stream": 13,
+        "switch": 605971,
+        "type": 0,
+        "vid": ""
+      },
+      "playurl": "",
+      "price": 320,
+      "vid": {
+        "Fstatus": null
+      }
+    },
+    {
+      "Flisten_count1": 0,
+      "Fupload_time": "2018-05-26 18:00:26",
+      "index": 22,
+      "isnew": 0,
+      "listenCount": 0,
+      "musicData": {
+        "albumdesc": "",
+        "albumid": 4059810,
+        "albummid": "003mqgZu46MfTl",
+        "albumname": "无限歌谣季 第6期",
+        "alertid": 11,
+        "belongCD": 4,
+        "cdIdx": 0,
+        "interval": 257,
+        "isonly": 1,
+        "label": "0",
+        "msgid": 0,
+        "pay": {
+          "payalbum": 0,
+          "payalbumprice": 0,
+          "paydownload": 0,
+          "payinfo": 0,
+          "payplay": 0,
+          "paytrackmouth": 0,
+          "paytrackprice": 0,
+          "timefree": 0
+        },
+        "preview": {
+          "trybegin": 0,
+          "tryend": 0,
+          "trysize": 0
+        },
+        "rate": 31,
+        "singer": [
+          {
+            "id": 5062,
+            "mid": "002J4UUk29y8BY",
+            "name": "薛之谦"
+          },
+          {
+            "id": 189107,
+            "mid": "0003CDDY4bDRAj",
+            "name": "岳云鹏"
+          }
+        ],
+        "size128": 4116684,
+        "size320": 10290963,
+        "size5_1": 0,
+        "sizeape": 54369304,
+        "sizeflac": 54416224,
+        "sizeogg": 5457132,
+        "songid": 214004936,
+        "songmid": "0024RfJA4dFO9I",
+        "songname": "醒来 (Live)",
+        "songorig": "醒来",
+        "songtype": 0,
+        "strMediaMid": "004RXylR0adkY1",
+        "stream": 13,
+        "switch": 605971,
+        "type": 0,
+        "vid": ""
+      },
+      "playurl": "",
+      "price": 320,
+      "vid": {
+        "Fstatus": null
+      }
+    },
+    {
+      "Flisten_count1": 0,
+      "Fupload_time": "2017-12-21 21:49:11",
+      "index": 23,
+      "isnew": 0,
+      "listenCount": 0,
+      "musicData": {
+        "albumdesc": "《二代妖精之今生有幸》电影推广曲",
+        "albumid": 3833404,
+        "albummid": "004gfAkV4K4lBa",
+        "albumname": "狐狸",
+        "alertid": 11,
+        "belongCD": 1,
+        "cdIdx": 0,
+        "interval": 234,
+        "isonly": 0,
+        "label": "0",
+        "msgid": 0,
+        "pay": {
+          "payalbum": 0,
+          "payalbumprice": 0,
+          "paydownload": 0,
+          "payinfo": 0,
+          "payplay": 0,
+          "paytrackmouth": 0,
+          "paytrackprice": 0,
+          "timefree": 0
+        },
+        "preview": {
+          "trybegin": 52110,
+          "tryend": 83944,
+          "trysize": 0
+        },
+        "rate": 31,
+        "singer": [
+          {
+            "id": 5062,
+            "mid": "002J4UUk29y8BY",
+            "name": "薛之谦"
+          }
+        ],
+        "size128": 3756425,
+        "size320": 9390724,
+        "size5_1": 0,
+        "sizeape": 24624943,
+        "sizeflac": 25359198,
+        "sizeogg": 5744783,
+        "songid": 212623641,
+        "songmid": "0047VwdV487b7t",
+        "songname": "狐狸",
+        "songorig": "狐狸",
+        "songtype": 0,
+        "strMediaMid": "0047VwdV487b7t",
+        "stream": 13,
+        "switch": 605971,
+        "type": 0,
+        "vid": "b0025rijgza"
+      },
+      "playurl": "",
+      "price": 320,
+      "vid": {
+        "Fmv_id": "1438791",
+        "Fstatus": "1",
+        "Fvid": "b0025rijgza"
+      }
+    },
+    {
+      "Flisten_count1": 0,
+      "Fupload_time": "2018-04-18 18:27:17",
+      "index": 24,
+      "isnew": 0,
+      "listenCount": 0,
+      "musicData": {
+        "albumdesc": "",
+        "albumid": 4019452,
+        "albummid": "001BQ2E122VHtt",
+        "albumname": "摩天大楼",
+        "alertid": 11,
+        "belongCD": 1,
+        "cdIdx": 0,
+        "interval": 230,
+        "isonly": 0,
+        "label": "0",
+        "msgid": 0,
+        "pay": {
+          "payalbum": 0,
+          "payalbumprice": 0,
+          "paydownload": 0,
+          "payinfo": 0,
+          "payplay": 0,
+          "paytrackmouth": 0,
+          "paytrackprice": 0,
+          "timefree": 0
+        },
+        "preview": {
+          "trybegin": 0,
+          "tryend": 0,
+          "trysize": 0
+        },
+        "rate": 31,
+        "singer": [
+          {
+            "id": 5062,
+            "mid": "002J4UUk29y8BY",
+            "name": "薛之谦"
+          }
+        ],
+        "size128": 3689105,
+        "size320": 9221923,
+        "size5_1": 0,
+        "sizeape": 20293375,
+        "sizeflac": 20315004,
+        "sizeogg": 4648173,
+        "songid": 213758212,
+        "songmid": "0026DBoG28Y4Hz",
+        "songname": "摩天大楼",
+        "songorig": "摩天大楼",
+        "songtype": 0,
+        "strMediaMid": "0026DBoG28Y4Hz",
+        "stream": 13,
+        "switch": 605971,
+        "type": 0,
+        "vid": "e0026ois27n"
+      },
+      "playurl": "",
+      "price": 320,
+      "vid": {
+        "Fmv_id": "1461588",
+        "Fstatus": "1",
+        "Fvid": "e0026ois27n"
+      }
+    },
+    {
+      "Flisten_count1": 0,
+      "Fupload_time": "2016-05-16 17:30:18",
+      "index": 25,
+      "isnew": 0,
+      "listenCount": 0,
+      "musicData": {
+        "albumdesc": "",
+        "albumid": 1376305,
+        "albummid": "000dcZ9I1nzO62",
+        "albumname": "初学者",
+        "alertid": 11,
+        "belongCD": 1,
+        "cdIdx": 0,
+        "interval": 280,
+        "isonly": 0,
+        "label": "4611686018431582209",
+        "msgid": 0,
+        "pay": {
+          "payalbum": 0,
+          "payalbumprice": 0,
+          "paydownload": 0,
+          "payinfo": 0,
+          "payplay": 0,
+          "paytrackmouth": 0,
+          "paytrackprice": 0,
+          "timefree": 0
+        },
+        "preview": {
+          "trybegin": 81827,
+          "tryend": 111646,
+          "trysize": 0
+        },
+        "rate": 31,
+        "singer": [
+          {
+            "id": 5062,
+            "mid": "002J4UUk29y8BY",
+            "name": "薛之谦"
+          }
+        ],
+        "size128": 4481134,
+        "size320": 11202545,
+        "size5_1": 0,
+        "sizeape": 31853693,
+        "sizeflac": 31895390,
+        "sizeogg": 6363683,
+        "songid": 106381715,
+        "songmid": "0025bbhu4ZKGnF",
+        "songname": "初学者",
+        "songorig": "初学者",
+        "songtype": 0,
+        "strMediaMid": "0025bbhu4ZKGnF",
+        "stream": 13,
+        "switch": 605971,
+        "type": 0,
+        "vid": "z0020lrokg8"
+      },
+      "playurl": "",
+      "price": 320,
+      "vid": {
+        "Fmv_id": "738474",
+        "Fstatus": "1",
+        "Fvid": "z0020lrokg8"
+      }
+    },
+    {
+      "Flisten_count1": 0,
+      "Fupload_time": "2016-07-04 12:16:21",
+      "index": 26,
+      "isnew": 0,
+      "listenCount": 0,
+      "musicData": {
+        "albumdesc": "",
+        "albumid": 1501560,
+        "albummid": "002A9RA21g89TS",
+        "albumname": "我想和你唱 第9期",
+        "alertid": 100002,
+        "belongCD": 3,
+        "cdIdx": 0,
+        "interval": 242,
+        "isonly": 1,
+        "label": "4611686018431582209",
+        "msgid": 14,
+        "pay": {
+          "payalbum": 0,
+          "payalbumprice": 0,
+          "paydownload": 1,
+          "payinfo": 1,
+          "payplay": 0,
+          "paytrackmouth": 1,
+          "paytrackprice": 200,
+          "timefree": 0
+        },
+        "preview": {
+          "trybegin": 0,
+          "tryend": 0,
+          "trysize": 0
+        },
+        "rate": 31,
+        "singer": [
+          {
+            "id": 5062,
+            "mid": "002J4UUk29y8BY",
+            "name": "薛之谦"
+          },
+          {
+            "id": 1186528,
+            "mid": "000StoMC27Djrx",
+            "name": "张婉清"
+          },
+          {
+            "id": 1186529,
+            "mid": "000s7LiJ1HTNnV",
+            "name": "黄云龙"
+          },
+          {
+            "id": 1186530,
+            "mid": "001j1Glu0YFyoq",
+            "name": "童英然"
+          }
+        ],
+        "size128": 3883096,
+        "size320": 9707151,
+        "size5_1": 0,
+        "sizeape": 27704312,
+        "sizeflac": 27913285,
+        "sizeogg": 5327457,
+        "songid": 107541999,
+        "songmid": "003h5qZ42kQkyH",
+        "songname": "丑八怪 (Live)",
+        "songorig": "丑八怪",
+        "songtype": 0,
+        "strMediaMid": "003h5qZ42kQkyH",
+        "stream": 13,
+        "switch": 17413891,
+        "type": 0,
+        "vid": ""
+      },
+      "playurl": "",
+      "price": 320,
+      "vid": null
+    },
+    {
+      "Flisten_count1": 0,
+      "Fupload_time": "2017-04-24 17:13:31",
+      "index": 27,
+      "isnew": 0,
+      "listenCount": 0,
+      "musicData": {
+        "albumdesc": "《我们的少年时代》电视剧片尾曲",
+        "albumid": 3310789,
+        "albummid": "001L7UIu3GXVtT",
+        "albumname": "渡 The Crossing",
+        "alertid": 100000,
+        "belongCD": 10,
+        "cdIdx": 0,
+        "interval": 248,
+        "isonly": 0,
+        "label": "0",
+        "msgid": 0,
+        "pay": {
+          "payalbum": 0,
+          "payalbumprice": 0,
+          "paydownload": 0,
+          "payinfo": 1,
+          "payplay": 0,
+          "paytrackmouth": 1,
+          "paytrackprice": 0,
+          "timefree": 1
+        },
+        "preview": {
+          "trybegin": 83513,
+          "tryend": 112037,
+          "trysize": 0
+        },
+        "rate": 31,
+        "singer": [
+          {
+            "id": 5062,
+            "mid": "002J4UUk29y8BY",
+            "name": "薛之谦"
+          }
+        ],
+        "size128": 3981255,
+        "size320": 9952847,
+        "size5_1": 0,
+        "sizeape": 21919173,
+        "sizeflac": 22057663,
+        "sizeogg": 5510316,
+        "songid": 201974489,
+        "songmid": "0028TjDC1vC6xv",
+        "songname": "我害怕",
+        "songorig": "我害怕",
+        "songtype": 0,
+        "strMediaMid": "0028TjDC1vC6xv",
+        "stream": 13,
+        "switch": 638847,
+        "type": 0,
+        "vid": "r0023bmzbum"
+      },
+      "playurl": "",
+      "price": 320,
+      "vid": {
+        "Fmv_id": "1252989",
+        "Fstatus": "1",
+        "Fvid": "r0023bmzbum"
+      }
+    },
+    {
+      "Flisten_count1": 0,
+      "Fupload_time": "2015-06-04 15:47:51",
+      "index": 28,
+      "isnew": 0,
+      "listenCount": 0,
+      "musicData": {
+        "albumdesc": "",
+        "albumid": 989994,
+        "albummid": "003y8dsH2wBHlo",
+        "albumname": "绅士",
+        "alertid": 11,
+        "belongCD": 3,
+        "cdIdx": 0,
+        "interval": 305,
+        "isonly": 0,
+        "label": "5764607658329899009",
+        "msgid": 0,
+        "pay": {
+          "payalbum": 0,
+          "payalbumprice": 0,
+          "paydownload": 0,
+          "payinfo": 0,
+          "payplay": 0,
+          "paytrackmouth": 0,
+          "paytrackprice": 0,
+          "timefree": 0
+        },
+        "preview": {
+          "trybegin": 61002,
+          "tryend": 101420,
+          "trysize": 0
+        },
+        "rate": 31,
+        "singer": [
+          {
+            "id": 5062,
+            "mid": "002J4UUk29y8BY",
+            "name": "薛之谦"
+          }
+        ],
+        "size128": 4885299,
+        "size320": 12212959,
+        "size5_1": 0,
+        "sizeape": 29124800,
+        "sizeflac": 30170003,
+        "sizeogg": 6653580,
+        "songid": 102636800,
+        "songmid": "000ssz152QNOHo",
+        "songname": "下雨了",
+        "songorig": "下雨了",
+        "songtype": 0,
+        "strMediaMid": "000ssz152QNOHo",
+        "stream": 13,
+        "switch": 605971,
+        "type": 0,
+        "vid": "x0024kdq8dj"
+      },
+      "playurl": "",
+      "price": 320,
+      "vid": {
+        "Fmv_id": "370785",
+        "Fstatus": "1",
+        "Fvid": "x0024kdq8dj"
+      }
+    },
+    {
+      "Flisten_count1": 0,
+      "Fupload_time": "2017-10-30 18:02:09",
+      "index": 29,
+      "isnew": 0,
+      "listenCount": 0,
+      "musicData": {
+        "albumdesc": "",
+        "albumid": 3310789,
+        "albummid": "001L7UIu3GXVtT",
+        "albumname": "渡 The Crossing",
+        "alertid": 100000,
+        "belongCD": 6,
+        "cdIdx": 0,
+        "interval": 215,
+        "isonly": 0,
+        "label": "0",
+        "msgid": 0,
+        "pay": {
+          "payalbum": 0,
+          "payalbumprice": 0,
+          "paydownload": 0,
+          "payinfo": 1,
+          "payplay": 0,
+          "paytrackmouth": 1,
+          "paytrackprice": 0,
+          "timefree": 1
+        },
+        "preview": {
+          "trybegin": 67436,
+          "tryend": 99499,
+          "trysize": 0
+        },
+        "rate": 31,
+        "singer": [
+          {
+            "id": 5062,
+            "mid": "002J4UUk29y8BY",
+            "name": "薛之谦"
+          }
+        ],
+        "size128": 3451693,
+        "size320": 8628953,
+        "size5_1": 0,
+        "sizeape": 20302497,
+        "sizeflac": 20247316,
+        "sizeogg": 4379794,
+        "songid": 206379449,
+        "songmid": "003uIckZ4ZP87A",
+        "songname": "别",
+        "songorig": "别",
+        "songtype": 0,
+        "strMediaMid": "003uIckZ4ZP87A",
+        "stream": 13,
+        "switch": 638847,
+        "type": 0,
+        "vid": "v0025lirt1a"
+      },
+      "playurl": "",
+      "price": 320,
+      "vid": {
+        "Fmv_id": "1438105",
+        "Fstatus": "1",
+        "Fvid": "v0025lirt1a"
+      }
+    },
+    {
+      "Flisten_count1": 0,
+      "Fupload_time": "2015-11-23 17:40:06",
+      "index": 30,
+      "isnew": 0,
+      "listenCount": 0,
+      "musicData": {
+        "albumdesc": "《胜女的代价》电视剧插曲",
+        "albumid": 122328,
+        "albummid": "003qp8IX21MXH0",
+        "albumname": "几个薛之谦",
+        "alertid": 11,
+        "belongCD": 1,
+        "cdIdx": 0,
+        "interval": 274,
+        "isonly": 0,
+        "label": "4611686153723052033",
+        "msgid": 0,
+        "pay": {
+          "payalbum": 0,
+          "payalbumprice": 0,
+          "paydownload": 0,
+          "payinfo": 0,
+          "payplay": 0,
+          "paytrackmouth": 0,
+          "paytrackprice": 0,
+          "timefree": 0
+        },
+        "preview": {
+          "trybegin": 0,
+          "tryend": 0,
+          "trysize": 0
+        },
+        "rate": 31,
+        "singer": [
+          {
+            "id": 5062,
+            "mid": "002J4UUk29y8BY",
+            "name": "薛之谦"
+          }
+        ],
+        "size128": 4388359,
+        "size320": 10970589,
+        "size5_1": 0,
+        "sizeape": 28423551,
+        "sizeflac": 28385277,
+        "sizeogg": 6060181,
+        "songid": 105029937,
+        "songmid": "002iXagj0UzwdL",
+        "songname": "我知道你都知道",
+        "songorig": "我知道你都知道",
+        "songtype": 0,
+        "strMediaMid": "003yJNu03EMH1t",
+        "stream": 13,
+        "switch": 81683,
+        "type": 0,
+        "vid": ""
+      },
+      "playurl": "",
+      "price": 320,
+      "vid": {
+        "Fstatus": null
+      }
+    },
+    {
+      "Flisten_count1": 0,
+      "Fupload_time": "2018-04-21 17:15:59",
+      "index": 31,
+      "isnew": 0,
+      "listenCount": 0,
+      "musicData": {
+        "albumdesc": "",
+        "albumid": 4022754,
+        "albummid": "0048Hlpc3S0ksJ",
+        "albumname": "无限歌谣季 第1期",
+        "alertid": 11,
+        "belongCD": 2,
+        "cdIdx": 0,
+        "interval": 294,
+        "isonly": 1,
+        "label": "0",
+        "msgid": 0,
+        "pay": {
+          "payalbum": 0,
+          "payalbumprice": 0,
+          "paydownload": 0,
+          "payinfo": 0,
+          "payplay": 0,
+          "paytrackmouth": 0,
+          "paytrackprice": 0,
+          "timefree": 0
+        },
+        "preview": {
+          "trybegin": 93110,
+          "tryend": 142022,
+          "trysize": 0
+        },
+        "rate": 31,
+        "singer": [
+          {
+            "id": 5062,
+            "mid": "002J4UUk29y8BY",
+            "name": "薛之谦"
+          }
+        ],
+        "size128": 4706026,
+        "size320": 11764214,
+        "size5_1": 0,
+        "sizeape": 56727472,
+        "sizeflac": 56766323,
+        "sizeogg": 6103480,
+        "songid": 213776565,
+        "songmid": "0022VCY125pxlH",
+        "songname": "哑巴 (Live)",
+        "songorig": "哑巴",
+        "songtype": 0,
+        "strMediaMid": "0022VCY125pxlH",
+        "stream": 13,
+        "switch": 605971,
+        "type": 0,
+        "vid": ""
+      },
+      "playurl": "",
+      "price": 320,
+      "vid": {
+        "Fstatus": null
+      }
+    },
+    {
+      "Flisten_count1": 0,
+      "Fupload_time": "2017-03-16 19:15:05",
+      "index": 32,
+      "isnew": 0,
+      "listenCount": 0,
+      "musicData": {
+        "albumdesc": "",
+        "albumid": 3310789,
+        "albummid": "001L7UIu3GXVtT",
+        "albumname": "渡 The Crossing",
+        "alertid": 100000,
+        "belongCD": 4,
+        "cdIdx": 0,
+        "interval": 318,
+        "isonly": 0,
+        "label": "0",
+        "msgid": 0,
+        "pay": {
+          "payalbum": 0,
+          "payalbumprice": 0,
+          "paydownload": 0,
+          "payinfo": 1,
+          "payplay": 0,
+          "paytrackmouth": 1,
+          "paytrackprice": 0,
+          "timefree": 1
+        },
+        "preview": {
+          "trybegin": 67407,
+          "tryend": 109153,
+          "trysize": 0
+        },
+        "rate": 31,
+        "singer": [
+          {
+            "id": 5062,
+            "mid": "002J4UUk29y8BY",
+            "name": "薛之谦"
+          }
+        ],
+        "size128": 5098456,
+        "size320": 12745684,
+        "size5_1": 0,
+        "sizeape": 32043243,
+        "sizeflac": 32087084,
+        "sizeogg": 6849706,
+        "songid": 201213781,
+        "songmid": "000yvCNX1ABNS2",
+        "songname": "高尚",
+        "songorig": "高尚",
+        "songtype": 0,
+        "strMediaMid": "000yvCNX1ABNS2",
+        "stream": 13,
+        "switch": 638847,
+        "type": 0,
+        "vid": "a00230ke8fw"
+      },
+      "playurl": "",
+      "price": 320,
+      "vid": {
+        "Fmv_id": "1228779",
+        "Fstatus": "1",
+        "Fvid": "a00230ke8fw"
+      }
+    },
+    {
+      "Flisten_count1": 0,
+      "Fupload_time": "2017-10-15 17:25:49",
+      "index": 33,
+      "isnew": 0,
+      "listenCount": 0,
+      "musicData": {
+        "albumdesc": "",
+        "albumid": 2296132,
+        "albummid": "002W7K2D0LxJJR",
+        "albumname": "蒙面唱将猜猜猜第二季 第6期",
+        "alertid": 100011,
+        "belongCD": 8,
+        "cdIdx": 0,
+        "interval": 238,
+        "isonly": 1,
+        "label": "0",
+        "msgid": 0,
+        "pay": {
+          "payalbum": 0,
+          "payalbumprice": 0,
+          "paydownload": 1,
+          "payinfo": 1,
+          "payplay": 0,
+          "paytrackmouth": 1,
+          "paytrackprice": 200,
+          "timefree": 1
+        },
+        "preview": {
+          "trybegin": 58021,
+          "tryend": 92146,
+          "trysize": 0
+        },
+        "rate": 31,
+        "singer": [
+          {
+            "id": 5062,
+            "mid": "002J4UUk29y8BY",
+            "name": "薛之谦"
+          }
+        ],
+        "size128": 3817033,
+        "size320": 9541898,
+        "size5_1": 0,
+        "sizeape": 25712459,
+        "sizeflac": 25897425,
+        "sizeogg": 5116997,
+        "songid": 204505031,
+        "songmid": "000hcT5L3qazwZ",
+        "songname": "遗憾 (Live)",
+        "songorig": "遗憾",
+        "songtype": 0,
+        "strMediaMid": "000hcT5L3qazwZ",
+        "stream": 13,
+        "switch": 17415967,
+        "type": 0,
+        "vid": ""
+      },
+      "playurl": "",
+      "price": 320,
+      "vid": {
+        "Fstatus": null
+      }
+    },
+    {
+      "Flisten_count1": 0,
+      "Fupload_time": "2017-11-15 19:13:19",
+      "index": 34,
+      "isnew": 0,
+      "listenCount": 0,
+      "musicData": {
+        "albumdesc": "",
+        "albumid": 3310789,
+        "albummid": "001L7UIu3GXVtT",
+        "albumname": "渡 The Crossing",
+        "alertid": 100000,
+        "belongCD": 5,
+        "cdIdx": 0,
+        "interval": 276,
+        "isonly": 0,
+        "label": "0",
+        "msgid": 0,
+        "pay": {
+          "payalbum": 0,
+          "payalbumprice": 0,
+          "paydownload": 0,
+          "payinfo": 1,
+          "payplay": 0,
+          "paytrackmouth": 1,
+          "paytrackprice": 0,
+          "timefree": 1
+        },
+        "preview": {
+          "trybegin": 40998,
+          "tryend": 93230,
+          "trysize": 0
+        },
+        "rate": 31,
+        "singer": [
+          {
+            "id": 5062,
+            "mid": "002J4UUk29y8BY",
+            "name": "薛之谦"
+          }
+        ],
+        "size128": 4430557,
+        "size320": 11076108,
+        "size5_1": 0,
+        "sizeape": 27935509,
+        "sizeflac": 28195702,
+        "sizeogg": 5862270,
+        "songid": 210693539,
+        "songmid": "002s96Ny4dZIU1",
+        "songname": "骆驼",
+        "songorig": "骆驼",
+        "songtype": 0,
+        "strMediaMid": "002s96Ny4dZIU1",
+        "stream": 13,
+        "switch": 638847,
+        "type": 0,
+        "vid": "f00259kdwns"
+      },
+      "playurl": "",
+      "price": 320,
+      "vid": {
+        "Fmv_id": "1439623",
+        "Fstatus": "1",
+        "Fvid": "f00259kdwns"
+      }
+    },
+    {
+      "Flisten_count1": 0,
+      "Fupload_time": "2017-03-11 11:43:50",
+      "index": 35,
+      "isnew": 0,
+      "listenCount": 0,
+      "musicData": {
+        "albumdesc": "",
+        "albumid": 2129666,
+        "albummid": "003KNM2I0euFNa",
+        "albumname": "超强音浪 第8期",
+        "alertid": 100002,
+        "belongCD": 1,
+        "cdIdx": 0,
+        "interval": 215,
+        "isonly": 1,
+        "label": "0",
+        "msgid": 14,
+        "pay": {
+          "payalbum": 0,
+          "payalbumprice": 0,
+          "paydownload": 1,
+          "payinfo": 1,
+          "payplay": 0,
+          "paytrackmouth": 1,
+          "paytrackprice": 200,
+          "timefree": 0
+        },
+        "preview": {
+          "trybegin": 0,
+          "tryend": 0,
+          "trysize": 0
+        },
+        "rate": 31,
+        "singer": [
+          {
+            "id": 5062,
+            "mid": "002J4UUk29y8BY",
+            "name": "薛之谦"
+          }
+        ],
+        "size128": 3444603,
+        "size320": 8611206,
+        "size5_1": 0,
+        "sizeape": 19786009,
+        "sizeflac": 19690943,
+        "sizeogg": 4455317,
+        "songid": 201040703,
+        "songmid": "004PTqgl1ctBPM",
+        "songname": "说谎 (Live)",
+        "songorig": "说谎",
+        "songtype": 0,
+        "strMediaMid": "000PcEf509fjZo",
+        "stream": 13,
+        "switch": 17413891,
+        "type": 0,
+        "vid": "z00225lo3st"
+      },
+      "playurl": "",
+      "price": 320,
+      "vid": {
+        "Fmv_id": "1087607",
+        "Fstatus": "1",
+        "Fvid": "z00225lo3st"
+      }
+    },
+    {
+      "Flisten_count1": 0,
+      "Fupload_time": "2017-11-27 17:48:49",
+      "index": 36,
+      "isnew": 0,
+      "listenCount": 0,
+      "musicData": {
+        "albumdesc": "",
+        "albumid": 3310789,
+        "albummid": "001L7UIu3GXVtT",
+        "albumname": "渡 The Crossing",
+        "alertid": 100000,
+        "belongCD": 8,
+        "cdIdx": 0,
+        "interval": 266,
+        "isonly": 0,
+        "label": "0",
+        "msgid": 0,
+        "pay": {
+          "payalbum": 0,
+          "payalbumprice": 0,
+          "paydownload": 0,
+          "payinfo": 1,
+          "payplay": 0,
+          "paytrackmouth": 1,
+          "paytrackprice": 0,
+          "timefree": 1
+        },
+        "preview": {
+          "trybegin": 0,
+          "tryend": 0,
+          "trysize": 0
+        },
+        "rate": 31,
+        "singer": [
+          {
+            "id": 5062,
+            "mid": "002J4UUk29y8BY",
+            "name": "薛之谦"
+          }
+        ],
+        "size128": 4260891,
+        "size320": 10651905,
+        "size5_1": 0,
+        "sizeape": 27930730,
+        "sizeflac": 28143840,
+        "sizeogg": 5975306,
+        "songid": 211968915,
+        "songmid": "000ljlsv1PdzCn",
+        "songname": "背过手",
+        "songorig": "背过手",
+        "songtype": 0,
+        "strMediaMid": "000ljlsv1PdzCn",
+        "stream": 13,
+        "switch": 638847,
+        "type": 0,
+        "vid": "l0025o34552"
+      },
+      "playurl": "",
+      "price": 320,
+      "vid": {
+        "Fmv_id": "1431738",
+        "Fstatus": "1",
+        "Fvid": "l0025o34552"
+      }
+    },
+    {
+      "Flisten_count1": 0,
+      "Fupload_time": "2012-08-16 14:26:58",
+      "index": 37,
+      "isnew": 0,
+      "listenCount": 0,
+      "musicData": {
+        "albumdesc": "",
+        "albumid": 122328,
+        "albummid": "003qp8IX21MXH0",
+        "albumname": "几个薛之谦",
+        "alertid": 11,
+        "belongCD": 9,
+        "cdIdx": 0,
+        "interval": 240,
+        "isonly": 0,
+        "label": "4611686153723052033",
+        "msgid": 0,
+        "pay": {
+          "payalbum": 0,
+          "payalbumprice": 0,
+          "paydownload": 0,
+          "payinfo": 0,
+          "payplay": 0,
+          "paytrackmouth": 0,
+          "paytrackprice": 0,
+          "timefree": 0
+        },
+        "preview": {
+          "trybegin": 0,
+          "tryend": 0,
+          "trysize": 0
+        },
+        "rate": 31,
+        "singer": [
+          {
+            "id": 5062,
+            "mid": "002J4UUk29y8BY",
+            "name": "薛之谦"
+          }
+        ],
+        "size128": 3848465,
+        "size320": 9615974,
+        "size5_1": 0,
+        "sizeape": 24365992,
+        "sizeflac": 24459916,
+        "sizeogg": 5100414,
+        "songid": 1771035,
+        "songmid": "0031mRtD35QuPt",
+        "songname": "为了遇见你",
+        "songorig": "为了遇见你",
+        "songtype": 0,
+        "strMediaMid": "0031mRtD35QuPt",
+        "stream": 13,
+        "switch": 81683,
+        "type": 0,
+        "vid": ""
+      },
+      "playurl": "",
+      "price": 320,
+      "vid": {
+        "Fstatus": null
+      }
+    },
+    {
+      "Flisten_count1": 0,
+      "Fupload_time": "2012-06-25 10:44:37",
+      "index": 38,
+      "isnew": 0,
+      "listenCount": 0,
+      "musicData": {
+        "albumdesc": "《胜女的代价》电视剧插曲",
+        "albumid": 122328,
+        "albummid": "003qp8IX21MXH0",
+        "albumname": "几个薛之谦",
+        "alertid": 11,
+        "belongCD": 2,
+        "cdIdx": 0,
+        "interval": 316,
+        "isonly": 0,
+        "label": "4611686153723052033",
+        "msgid": 0,
+        "pay": {
+          "payalbum": 0,
+          "payalbumprice": 0,
+          "paydownload": 0,
+          "payinfo": 0,
+          "payplay": 0,
+          "paytrackmouth": 0,
+          "paytrackprice": 0,
+          "timefree": 0
+        },
+        "preview": {
+          "trybegin": 0,
+          "tryend": 0,
+          "trysize": 0
+        },
+        "rate": 31,
+        "singer": [
+          {
+            "id": 5062,
+            "mid": "002J4UUk29y8BY",
+            "name": "薛之谦"
+          }
+        ],
+        "size128": 5066281,
+        "size320": 12665122,
+        "size5_1": 0,
+        "sizeape": 33647199,
+        "sizeflac": 33708571,
+        "sizeogg": 7022599,
+        "songid": 1518193,
+        "songmid": "003uG1en00qJ9Z",
+        "songname": "几个你",
+        "songorig": "几个你",
+        "songtype": 0,
+        "strMediaMid": "004e1DlN1Iglw9",
+        "stream": 13,
+        "switch": 81683,
+        "type": 0,
+        "vid": "r0010295vGM"
+      },
+      "playurl": "",
+      "price": 320,
+      "vid": {
+        "Fmv_id": "136807",
+        "Fstatus": "1",
+        "Fvid": "r0010295vGM"
+      }
+    },
+    {
+      "Flisten_count1": 0,
+      "Fupload_time": "2013-12-12 15:49:12",
+      "index": 39,
+      "isnew": 0,
+      "listenCount": 0,
+      "musicData": {
+        "albumdesc": "",
+        "albumid": 443691,
+        "albummid": "000QgFcm0v8WaF",
+        "albumname": "意外",
+        "alertid": 11,
+        "belongCD": 4,
+        "cdIdx": 0,
+        "interval": 252,
+        "isonly": 0,
+        "label": "4611686018435776513",
+        "msgid": 0,
+        "pay": {
+          "payalbum": 0,
+          "payalbumprice": 0,
+          "paydownload": 0,
+          "payinfo": 0,
+          "payplay": 0,
+          "paytrackmouth": 0,
+          "paytrackprice": 0,
+          "timefree": 0
+        },
+        "preview": {
+          "trybegin": 88461,
+          "tryend": 118000,
+          "trysize": 0
+        },
+        "rate": 31,
+        "singer": [
+          {
+            "id": 5062,
+            "mid": "002J4UUk29y8BY",
+            "name": "薛之谦"
+          }
+        ],
+        "size128": 4033504,
+        "size320": 10083463,
+        "size5_1": 0,
+        "sizeape": 26586846,
+        "sizeflac": 26734428,
+        "sizeogg": 5681249,
+        "songid": 5106431,
+        "songmid": "0033grab0nD7ii",
+        "songname": "有没有",
+        "songorig": "有没有",
+        "songtype": 0,
+        "strMediaMid": "0033grab0nD7ii",
+        "stream": 13,
+        "switch": 605971,
+        "type": 0,
+        "vid": "v0013osy62f"
+      },
+      "playurl": "",
+      "price": 320,
+      "vid": {
+        "Fmv_id": "276703",
+        "Fstatus": "1",
+        "Fvid": "v0013osy62f"
+      }
+    },
+    {
+      "Flisten_count1": 0,
+      "Fupload_time": "2013-12-12 15:49:12",
+      "index": 40,
+      "isnew": 0,
+      "listenCount": 0,
+      "musicData": {
+        "albumdesc": "",
+        "albumid": 443691,
+        "albummid": "000QgFcm0v8WaF",
+        "albumname": "意外",
+        "alertid": 11,
+        "belongCD": 6,
+        "cdIdx": 0,
+        "interval": 297,
+        "isonly": 0,
+        "label": "4611686018427387905",
+        "msgid": 0,
+        "pay": {
+          "payalbum": 0,
+          "payalbumprice": 0,
+          "paydownload": 0,
+          "payinfo": 0,
+          "payplay": 0,
+          "paytrackmouth": 0,
+          "paytrackprice": 0,
+          "timefree": 0
+        },
+        "preview": {
+          "trybegin": 0,
+          "tryend": 0,
+          "trysize": 0
+        },
+        "rate": 31,
+        "singer": [
+          {
+            "id": 5062,
+            "mid": "002J4UUk29y8BY",
+            "name": "薛之谦"
+          }
+        ],
+        "size128": 4767852,
+        "size320": 11919188,
+        "size5_1": 0,
+        "sizeape": 29315213,
+        "sizeflac": 29472275,
+        "sizeogg": 6278882,
+        "songid": 5106433,
+        "songmid": "001sBy9d0RzXkR",
+        "songname": "等我回家",
+        "songorig": "等我回家",
+        "songtype": 0,
+        "strMediaMid": "001sBy9d0RzXkR",
+        "stream": 13,
+        "switch": 605971,
+        "type": 0,
+        "vid": "a0016pyc7vf"
+      },
+      "playurl": "",
+      "price": 320,
+      "vid": {
+        "Fmv_id": "352211",
+        "Fstatus": "1",
+        "Fvid": "a0016pyc7vf"
+      }
+    },
+    {
+      "Flisten_count1": 0,
+      "Fupload_time": "2017-11-09 19:00:22",
+      "index": 41,
+      "isnew": 0,
+      "listenCount": 0,
+      "musicData": {
+        "albumdesc": "",
+        "albumid": 3310789,
+        "albummid": "001L7UIu3GXVtT",
+        "albumname": "渡 The Crossing",
+        "alertid": 100000,
+        "belongCD": 9,
+        "cdIdx": 0,
+        "interval": 213,
+        "isonly": 0,
+        "label": "0",
+        "msgid": 0,
+        "pay": {
+          "payalbum": 0,
+          "payalbumprice": 0,
+          "paydownload": 0,
+          "payinfo": 1,
+          "payplay": 0,
+          "paytrackmouth": 1,
+          "paytrackprice": 0,
+          "timefree": 1
+        },
+        "preview": {
+          "trybegin": 0,
+          "tryend": 0,
+          "trysize": 0
+        },
+        "rate": 31,
+        "singer": [
+          {
+            "id": 5062,
+            "mid": "002J4UUk29y8BY",
+            "name": "薛之谦"
+          }
+        ],
+        "size128": 3414076,
+        "size320": 8534912,
+        "size5_1": 0,
+        "sizeape": 17395927,
+        "sizeflac": 17502481,
+        "sizeogg": 4480053,
+        "songid": 209213590,
+        "songmid": "003BkX6r1Ay0uC",
+        "songname": "渡",
+        "songorig": "渡",
+        "songtype": 0,
+        "strMediaMid": "003BkX6r1Ay0uC",
+        "stream": 13,
+        "switch": 638847,
+        "type": 0,
+        "vid": "x00256cm760"
+      },
+      "playurl": "",
+      "price": 320,
+      "vid": {
+        "Fmv_id": "1441081",
+        "Fstatus": "1",
+        "Fvid": "x00256cm760"
+      }
+    },
+    {
+      "Flisten_count1": 0,
+      "Fupload_time": "2016-09-12 10:06:02",
+      "index": 42,
+      "isnew": 0,
+      "listenCount": 0,
+      "musicData": {
+        "albumdesc": "《我不是潘金莲》电影方圆版推广曲",
+        "albumid": 1601728,
+        "albummid": "001iXBa54Lz2Ck",
+        "albumname": "来日方长",
+        "alertid": 11,
+        "belongCD": 1,
+        "cdIdx": 0,
+        "interval": 234,
+        "isonly": 0,
+        "label": "4611686018431582209",
+        "msgid": 0,
+        "pay": {
+          "payalbum": 0,
+          "payalbumprice": 0,
+          "paydownload": 0,
+          "payinfo": 0,
+          "payplay": 0,
+          "paytrackmouth": 0,
+          "paytrackprice": 0,
+          "timefree": 0
+        },
+        "preview": {
+          "trybegin": 0,
+          "tryend": 0,
+          "trysize": 0
+        },
+        "rate": 31,
+        "singer": [
+          {
+            "id": 5062,
+            "mid": "002J4UUk29y8BY",
+            "name": "薛之谦"
+          },
+          {
+            "id": 11476,
+            "mid": "003AKgLE4SfjsK",
+            "name": "黄龄"
+          }
+        ],
+        "size128": 3745112,
+        "size320": 9362483,
+        "size5_1": 0,
+        "sizeape": 20021447,
+        "sizeflac": 20073872,
+        "sizeogg": 4820491,
+        "songid": 108493530,
+        "songmid": "001nyZbY3ky9cb",
+        "songname": "来日方长",
+        "songorig": "来日方长",
+        "songtype": 0,
+        "strMediaMid": "001nyZbY3ky9cb",
+        "stream": 13,
+        "switch": 605971,
+        "type": 0,
+        "vid": "n0021yoj0z6"
+      },
+      "playurl": "",
+      "price": 320,
+      "vid": {
+        "Fmv_id": "1042570",
+        "Fstatus": "1",
+        "Fvid": "n0021yoj0z6"
+      }
+    },
+    {
+      "Flisten_count1": 0,
+      "Fupload_time": "2017-12-30 01:00:30",
+      "index": 43,
+      "isnew": 0,
+      "listenCount": 0,
+      "musicData": {
+        "albumdesc": "",
+        "albumid": 3851622,
+        "albummid": "000e36et0VmUI4",
+        "albumname": "“让幸福照亮你”江苏卫视2018跨年演唱会",
+        "alertid": 100000,
+        "belongCD": 41,
+        "cdIdx": 0,
+        "interval": 173,
+        "isonly": 1,
+        "label": "0",
+        "msgid": 0,
+        "pay": {
+          "payalbum": 0,
+          "payalbumprice": 0,
+          "paydownload": 0,
+          "payinfo": 1,
+          "payplay": 0,
+          "paytrackmouth": 1,
+          "paytrackprice": 0,
+          "timefree": 1
+        },
+        "preview": {
+          "trybegin": 0,
+          "tryend": 0,
+          "trysize": 0
+        },
+        "rate": 31,
+        "singer": [
+          {
+            "id": 5062,
+            "mid": "002J4UUk29y8BY",
+            "name": "薛之谦"
+          },
+          {
+            "id": 1507534,
+            "mid": "001BHDR33FZVZ0",
+            "name": "毛不易"
+          }
+        ],
+        "size128": 2770461,
+        "size320": 6925651,
+        "size5_1": 0,
+        "sizeape": 8645890,
+        "sizeflac": 8543850,
+        "sizeogg": 2787623,
+        "songid": 212683130,
+        "songmid": "002O3A8O1I9gdZ",
+        "songname": "消愁 (Live)",
+        "songorig": "消愁",
+        "songtype": 0,
+        "strMediaMid": "000t6x8x4CM2ge",
+        "stream": 13,
+        "switch": 634751,
+        "type": 0,
+        "vid": "o0025h0groh"
+      },
+      "playurl": "",
+      "price": 320,
+      "vid": {
+        "Fmv_id": "1438886",
+        "Fstatus": "1",
+        "Fvid": "o0025h0groh"
+      }
+    },
+    {
+      "Flisten_count1": 0,
+      "Fupload_time": "2017-10-15 17:25:51",
+      "index": 44,
+      "isnew": 0,
+      "listenCount": 0,
+      "musicData": {
+        "albumdesc": "",
+        "albumid": 2296132,
+        "albummid": "002W7K2D0LxJJR",
+        "albumname": "蒙面唱将猜猜猜第二季 第6期",
+        "alertid": 100011,
+        "belongCD": 4,
+        "cdIdx": 0,
+        "interval": 276,
+        "isonly": 1,
+        "label": "0",
+        "msgid": 0,
+        "pay": {
+          "payalbum": 0,
+          "payalbumprice": 0,
+          "paydownload": 1,
+          "payinfo": 1,
+          "payplay": 0,
+          "paytrackmouth": 1,
+          "paytrackprice": 200,
+          "timefree": 1
+        },
+        "preview": {
+          "trybegin": 0,
+          "tryend": 0,
+          "trysize": 0
+        },
+        "rate": 31,
+        "singer": [
+          {
+            "id": 166331,
+            "mid": "0022vJv649R7V2",
+            "name": "刘维"
+          },
+          {
+            "id": 5062,
+            "mid": "002J4UUk29y8BY",
+            "name": "薛之谦"
+          }
+        ],
+        "size128": 4422260,
+        "size320": 11055098,
+        "size5_1": 0,
+        "sizeape": 30616590,
+        "sizeflac": 30806440,
+        "sizeogg": 5864630,
+        "songid": 204505036,
+        "songmid": "002Eg7sW1b7tAr",
+        "songname": "婚礼的祝福 (Live)",
+        "songorig": "婚礼的祝福",
+        "songtype": 0,
+        "strMediaMid": "002Eg7sW1b7tAr",
+        "stream": 13,
+        "switch": 17415967,
+        "type": 0,
+        "vid": ""
+      },
+      "playurl": "",
+      "price": 320,
+      "vid": {
+        "Fstatus": null
+      }
+    },
+    {
+      "Flisten_count1": 0,
+      "Fupload_time": "2017-02-08 18:30:55",
+      "index": 45,
+      "isnew": 0,
+      "listenCount": 0,
+      "musicData": {
+        "albumdesc": "",
+        "albumid": 1840337,
+        "albummid": "0035hOHV0uUWA9",
+        "albumname": "《我们的挑战》新春歌会特辑",
+        "alertid": 100002,
+        "belongCD": 5,
+        "cdIdx": 0,
+        "interval": 267,
+        "isonly": 1,
+        "label": "0",
+        "msgid": 0,
+        "pay": {
+          "payalbum": 0,
+          "payalbumprice": 0,
+          "paydownload": 1,
+          "payinfo": 1,
+          "payplay": 0,
+          "paytrackmouth": 1,
+          "paytrackprice": 200,
+          "timefree": 1
+        },
+        "preview": {
+          "trybegin": 0,
+          "tryend": 0,
+          "trysize": 0
+        },
+        "rate": 31,
+        "singer": [
+          {
+            "id": 5062,
+            "mid": "002J4UUk29y8BY",
+            "name": "薛之谦"
+          },
+          {
+            "id": 1038252,
+            "mid": "0003R3WI40ZZYG",
+            "name": "欧阳娜娜"
+          }
+        ],
+        "size128": 4281401,
+        "size320": 10703135,
+        "size5_1": 0,
+        "sizeape": 28801817,
+        "sizeflac": 28959979,
+        "sizeogg": 5669841,
+        "songid": 200635861,
+        "songmid": "000N8j7K1Z0ap5",
+        "songname": "小幸运 (Live)",
+        "songorig": "小幸运",
+        "songtype": 0,
+        "strMediaMid": "000N8j7K1Z0ap5",
+        "stream": 13,
+        "switch": 17411859,
+        "type": 0,
+        "vid": ""
+      },
+      "playurl": "",
+      "price": 320,
+      "vid": {
+        "Fstatus": null
+      }
+    },
+    {
+      "Flisten_count1": 0,
+      "Fupload_time": "2016-11-27 18:52:20",
+      "index": 46,
+      "isnew": 0,
+      "listenCount": 0,
+      "musicData": {
+        "albumdesc": "",
+        "albumid": 3310789,
+        "albummid": "001L7UIu3GXVtT",
+        "albumname": "渡 The Crossing",
+        "alertid": 100000,
+        "belongCD": 7,
+        "cdIdx": 0,
+        "interval": 216,
+        "isonly": 0,
+        "label": "4611686018431582209",
+        "msgid": 0,
+        "pay": {
+          "payalbum": 0,
+          "payalbumprice": 0,
+          "paydownload": 0,
+          "payinfo": 1,
+          "payplay": 0,
+          "paytrackmouth": 1,
+          "paytrackprice": 0,
+          "timefree": 1
+        },
+        "preview": {
+          "trybegin": 56627,
+          "tryend": 98028,
+          "trysize": 0
+        },
+        "rate": 31,
+        "singer": [
+          {
+            "id": 5062,
+            "mid": "002J4UUk29y8BY",
+            "name": "薛之谦"
+          }
+        ],
+        "size128": 3472189,
+        "size320": 8680169,
+        "size5_1": 0,
+        "sizeape": 26034197,
+        "sizeflac": 26117069,
+        "sizeogg": 4919107,
+        "songid": 109397900,
+        "songmid": "002tsQtg4CQZyK",
+        "songname": "火星人来过",
+        "songorig": "火星人来过",
+        "songtype": 0,
+        "strMediaMid": "002tsQtg4CQZyK",
+        "stream": 13,
+        "switch": 638847,
+        "type": 0,
+        "vid": "v0022vnd8cb"
+      },
+      "playurl": "",
+      "price": 320,
+      "vid": {
+        "Fmv_id": "1074711",
+        "Fstatus": "1",
+        "Fvid": "v0022vnd8cb"
+      }
+    },
+    {
+      "Flisten_count1": 0,
+      "Fupload_time": "2015-10-07 18:14:52",
+      "index": 47,
+      "isnew": 0,
+      "listenCount": 0,
+      "musicData": {
+        "albumdesc": "",
+        "albumid": 1174100,
+        "albummid": "000dEfCC2ccVxz",
+        "albumname": "一半",
+        "alertid": 11,
+        "belongCD": 2,
+        "cdIdx": 0,
+        "interval": 321,
+        "isonly": 0,
+        "label": "4611686153723052033",
+        "msgid": 0,
+        "pay": {
+          "payalbum": 0,
+          "payalbumprice": 0,
+          "paydownload": 0,
+          "payinfo": 0,
+          "payplay": 0,
+          "paytrackmouth": 0,
+          "paytrackprice": 0,
+          "timefree": 0
+        },
+        "preview": {
+          "trybegin": 94754,
+          "tryend": 145250,
+          "trysize": 0
+        },
+        "rate": 31,
+        "singer": [
+          {
+            "id": 5062,
+            "mid": "002J4UUk29y8BY",
+            "name": "薛之谦"
+          }
+        ],
+        "size128": 5143595,
+        "size320": 12858704,
+        "size5_1": 0,
+        "sizeape": 30200993,
+        "sizeflac": 30517478,
+        "sizeogg": 6776126,
+        "songid": 104674830,
+        "songmid": "004TZWVR2yuzCI",
+        "songname": "小孩",
+        "songorig": "小孩",
+        "songtype": 0,
+        "strMediaMid": "004TZWVR2yuzCI",
+        "stream": 13,
+        "switch": 605971,
+        "type": 0,
+        "vid": "q0018cu6wb6"
+      },
+      "playurl": "",
+      "price": 320,
+      "vid": {
+        "Fmv_id": "655315",
+        "Fstatus": "1",
+        "Fvid": "q0018cu6wb6"
+      }
+    },
+    {
+      "Flisten_count1": 0,
+      "Fupload_time": "2018-08-04 18:02:09",
+      "index": 48,
+      "isnew": 1,
+      "listenCount": 0,
+      "musicData": {
+        "albumdesc": "",
+        "albumid": 4298486,
+        "albummid": "0045Q1KT48gVpg",
+        "albumname": "跨界歌王第三季 第13期",
+        "alertid": 11,
+        "belongCD": 9,
+        "cdIdx": 0,
+        "interval": 229,
+        "isonly": 1,
+        "label": "0",
+        "msgid": 0,
+        "pay": {
+          "payalbum": 0,
+          "payalbumprice": 0,
+          "paydownload": 0,
+          "payinfo": 0,
+          "payplay": 0,
+          "paytrackmouth": 0,
+          "paytrackprice": 0,
+          "timefree": 0
+        },
+        "preview": {
+          "trybegin": 0,
+          "tryend": 0,
+          "trysize": 0
+        },
+        "rate": 31,
+        "singer": [
+          {
+            "id": 5062,
+            "mid": "002J4UUk29y8BY",
+            "name": "薛之谦"
+          }
+        ],
+        "size128": 3668665,
+        "size320": 9171307,
+        "size5_1": 0,
+        "sizeape": 22777517,
+        "sizeflac": 22759198,
+        "sizeogg": 4674127,
+        "songid": 215436043,
+        "songmid": "003Ajvb91u25B2",
+        "songname": "摩天大楼 (Live)",
+        "songorig": "摩天大楼",
+        "songtype": 0,
+        "strMediaMid": "003Ajvb91u25B2",
+        "stream": 13,
+        "switch": 605971,
+        "type": 0,
+        "vid": "x0027zia4d9"
+      },
+      "playurl": "",
+      "price": 320,
+      "vid": {
+        "Fmv_id": "1480064",
+        "Fstatus": "1",
+        "Fvid": "x0027zia4d9"
+      }
+    },
+    {
+      "Flisten_count1": 0,
+      "Fupload_time": "2016-09-14 20:04:11",
+      "index": 49,
+      "isnew": 0,
+      "listenCount": 0,
+      "musicData": {
+        "albumdesc": "",
+        "albumid": 1607923,
+        "albummid": "000aWdOx24i3dG",
+        "albumname": "中国新歌声 第10期 中秋特辑",
+        "alertid": 100002,
+        "belongCD": 1,
+        "cdIdx": 0,
+        "interval": 303,
+        "isonly": 1,
+        "label": "4611686018431582209",
+        "msgid": 0,
+        "pay": {
+          "payalbum": 0,
+          "payalbumprice": 0,
+          "paydownload": 1,
+          "payinfo": 1,
+          "payplay": 0,
+          "paytrackmouth": 1,
+          "paytrackprice": 200,
+          "timefree": 1
+        },
+        "preview": {
+          "trybegin": 102079,
+          "tryend": 141018,
+          "trysize": 0
+        },
+        "rate": 31,
+        "singer": [
+          {
+            "id": 5062,
+            "mid": "002J4UUk29y8BY",
+            "name": "薛之谦"
+          }
+        ],
+        "size128": 4864015,
+        "size320": 12159701,
+        "size5_1": 0,
+        "sizeape": 30966754,
+        "sizeflac": 31154717,
+        "sizeogg": 6541572,
+        "songid": 108549169,
+        "songmid": "000E62Tc3bMiJB",
+        "songname": "你还要我怎样 (Live)",
+        "songorig": "你还要我怎样",
+        "songtype": 0,
+        "strMediaMid": "000E62Tc3bMiJB",
+        "stream": 13,
+        "switch": 17415955,
+        "type": 0,
+        "vid": "e0021ztpog6"
+      },
+      "playurl": "",
+      "price": 320,
+      "vid": {
+        "Fmv_id": "1042798",
+        "Fstatus": "1",
+        "Fvid": "e0021ztpog6"
+      }
+    },
+    {
+      "Flisten_count1": 0,
+      "Fupload_time": "2018-06-23 17:10:09",
+      "index": 50,
+      "isnew": 1,
+      "listenCount": 0,
+      "musicData": {
+        "albumdesc": "",
+        "albumid": 4094267,
+        "albummid": "0044m5Ur0fNxFU",
+        "albumname": "无限歌谣季 第10期",
+        "alertid": 11,
+        "belongCD": 2,
+        "cdIdx": 0,
+        "interval": 296,
+        "isonly": 0,
+        "label": "0",
+        "msgid": 0,
+        "pay": {
+          "payalbum": 0,
+          "payalbumprice": 0,
+          "paydownload": 0,
+          "payinfo": 0,
+          "payplay": 0,
+          "paytrackmouth": 0,
+          "paytrackprice": 0,
+          "timefree": 0
+        },
+        "preview": {
+          "trybegin": 0,
+          "tryend": 0,
+          "trysize": 0
+        },
+        "rate": 31,
+        "singer": [
+          {
+            "id": 5062,
+            "mid": "002J4UUk29y8BY",
+            "name": "薛之谦"
+          },
+          {
+            "id": 1452474,
+            "mid": "004PLZM10aL7gW",
+            "name": "杨迪"
+          }
+        ],
+        "size128": 4744894,
+        "size320": 11861903,
+        "size5_1": 0,
+        "sizeape": 31508237,
+        "sizeflac": 31661103,
+        "sizeogg": 6286427,
+        "songid": 214173492,
+        "songmid": "004dKiQa1LpQXn",
+        "songname": "怪咖 (Live)",
+        "songorig": "怪咖",
+        "songtype": 0,
+        "strMediaMid": "004dKiQa1LpQXn",
+        "stream": 13,
+        "switch": 605971,
+        "type": 0,
+        "vid": ""
+      },
+      "playurl": "",
+      "price": 320,
+      "vid": {
+        "Fstatus": null
+      }
+    },
+    {
+      "Flisten_count1": 0,
+      "Fupload_time": "2016-07-18 10:12:10",
+      "index": 51,
+      "isnew": 0,
+      "listenCount": 0,
+      "musicData": {
+        "albumdesc": "",
+        "albumid": 1376305,
+        "albummid": "000dcZ9I1nzO62",
+        "albumname": "初学者",
+        "alertid": 11,
+        "belongCD": 9,
+        "cdIdx": 0,
+        "interval": 262,
+        "isonly": 0,
+        "label": "5764607523038429185",
+        "msgid": 0,
+        "pay": {
+          "payalbum": 0,
+          "payalbumprice": 0,
+          "paydownload": 0,
+          "payinfo": 0,
+          "payplay": 0,
+          "paytrackmouth": 0,
+          "paytrackprice": 0,
+          "timefree": 0
+        },
+        "preview": {
+          "trybegin": 55416,
+          "tryend": 91876,
+          "trysize": 0
+        },
+        "rate": 31,
+        "singer": [
+          {
+            "id": 5062,
+            "mid": "002J4UUk29y8BY",
+            "name": "薛之谦"
+          }
+        ],
+        "size128": 4206959,
+        "size320": 10516553,
+        "size5_1": 0,
+        "sizeape": 29010252,
+        "sizeflac": 29136765,
+        "sizeogg": 5942829,
+        "songid": 107693524,
+        "songmid": "003XJkBB2eGU29",
+        "songname": "花儿和少年",
+        "songorig": "花儿和少年",
+        "songtype": 0,
+        "strMediaMid": "003XJkBB2eGU29",
+        "stream": 13,
+        "switch": 605971,
+        "type": 0,
+        "vid": ""
+      },
+      "playurl": "",
+      "price": 320,
+      "vid": {
+        "Fstatus": null
+      }
+    },
+    {
+      "Flisten_count1": 0,
+      "Fupload_time": "2015-10-16 17:13:05",
+      "index": 52,
+      "isnew": 0,
+      "listenCount": 0,
+      "musicData": {
+        "albumdesc": "",
+        "albumid": 1174100,
+        "albummid": "000dEfCC2ccVxz",
+        "albumname": "一半",
+        "alertid": 11,
+        "belongCD": 3,
+        "cdIdx": 0,
+        "interval": 301,
+        "isonly": 0,
+        "label": "4611686153723052033",
+        "msgid": 0,
+        "pay": {
+          "payalbum": 0,
+          "payalbumprice": 0,
+          "paydownload": 0,
+          "payinfo": 0,
+          "payplay": 0,
+          "paytrackmouth": 0,
+          "paytrackprice": 0,
+          "timefree": 0
+        },
+        "preview": {
+          "trybegin": 78105,
+          "tryend": 106023,
+          "trysize": 0
+        },
+        "rate": 31,
+        "singer": [
+          {
+            "id": 5062,
+            "mid": "002J4UUk29y8BY",
+            "name": "薛之谦"
+          }
+        ],
+        "size128": 4823453,
+        "size320": 12058326,
+        "size5_1": 0,
+        "sizeape": 33952644,
+        "sizeflac": 33995041,
+        "sizeogg": 7311947,
+        "songid": 104792680,
+        "songmid": "002HurNP2d7GyH",
+        "songname": "Stay Here",
+        "songorig": "Stay Here",
+        "songtype": 0,
+        "strMediaMid": "002HurNP2d7GyH",
+        "stream": 13,
+        "switch": 605971,
+        "type": 0,
+        "vid": "p0018rm2tuh"
+      },
+      "playurl": "",
+      "price": 320,
+      "vid": {
+        "Fmv_id": "659407",
+        "Fstatus": "1",
+        "Fvid": "p0018rm2tuh"
+      }
+    },
+    {
+      "Flisten_count1": 0,
+      "Fupload_time": "2009-12-14 15:07:02",
+      "index": 53,
+      "isnew": 0,
+      "listenCount": 0,
+      "musicData": {
+        "albumdesc": "",
+        "albumid": 55085,
+        "albummid": "0036fT613sAeZn",
+        "albumname": "未完成的歌",
+        "alertid": 11,
+        "belongCD": 1,
+        "cdIdx": 0,
+        "interval": 260,
+        "isonly": 0,
+        "label": "4611686018431582209",
+        "msgid": 0,
+        "pay": {
+          "payalbum": 0,
+          "payalbumprice": 0,
+          "paydownload": 0,
+          "payinfo": 0,
+          "payplay": 0,
+          "paytrackmouth": 0,
+          "paytrackprice": 0,
+          "timefree": 0
+        },
+        "preview": {
+          "trybegin": 59077,
+          "tryend": 99606,
+          "trysize": 0
+        },
+        "rate": 31,
+        "singer": [
+          {
+            "id": 5062,
+            "mid": "002J4UUk29y8BY",
+            "name": "薛之谦"
+          }
+        ],
+        "size128": 4172530,
+        "size320": 10421990,
+        "size5_1": 0,
+        "sizeape": 26594159,
+        "sizeflac": 27345591,
+        "sizeogg": 5738072,
+        "songid": 647946,
+        "songmid": "004DWbXZ2Q6GAt",
+        "songname": "未完成的歌",
+        "songorig": "未完成的歌",
+        "songtype": 0,
+        "strMediaMid": "004DWbXZ2Q6GAt",
+        "stream": 13,
+        "switch": 81683,
+        "type": 0,
+        "vid": "t00138lajh4"
+      },
+      "playurl": "",
+      "price": 320,
+      "vid": {
+        "Fmv_id": "49672",
+        "Fstatus": "1",
+        "Fvid": "t00138lajh4"
+      }
+    },
+    {
+      "Flisten_count1": 0,
+      "Fupload_time": "2017-04-14 19:21:47",
+      "index": 54,
+      "isnew": 0,
+      "listenCount": 0,
+      "musicData": {
+        "albumdesc": "",
+        "albumid": 2002287,
+        "albummid": "003oCYtF074aUH",
+        "albumname": "金曲捞 第1期",
+        "alertid": 100002,
+        "belongCD": 6,
+        "cdIdx": 0,
+        "interval": 280,
+        "isonly": 1,
+        "label": "0",
+        "msgid": 0,
+        "pay": {
+          "payalbum": 0,
+          "payalbumprice": 0,
+          "paydownload": 1,
+          "payinfo": 1,
+          "payplay": 0,
+          "paytrackmouth": 1,
+          "paytrackprice": 200,
+          "timefree": 1
+        },
+        "preview": {
+          "trybegin": 0,
+          "tryend": 0,
+          "trysize": 0
+        },
+        "rate": 31,
+        "singer": [
+          {
+            "id": 5062,
+            "mid": "002J4UUk29y8BY",
+            "name": "薛之谦"
+          }
+        ],
+        "size128": 4490339,
+        "size320": 11225542,
+        "size5_1": 0,
+        "sizeape": 33446444,
+        "sizeflac": 33679414,
+        "sizeogg": 6363614,
+        "songid": 201820112,
+        "songmid": "001pYCHc4Dld0C",
+        "songname": "王子公主 (Live)",
+        "songorig": "王子公主",
+        "songtype": 0,
+        "strMediaMid": "001pYCHc4Dld0C",
+        "stream": 13,
+        "switch": 17415955,
+        "type": 0,
+        "vid": "q002353srw7"
+      },
+      "playurl": "",
+      "price": 320,
+      "vid": {
+        "Fmv_id": "1215620",
+        "Fstatus": "1",
+        "Fvid": "q002353srw7"
+      }
+    },
+    {
+      "Flisten_count1": 0,
+      "Fupload_time": "2017-09-01 17:52:18",
+      "index": 55,
+      "isnew": 0,
+      "listenCount": 0,
+      "musicData": {
+        "albumdesc": "",
+        "albumid": 2224692,
+        "albummid": "002gqH8h0cSsnt",
+        "albumname": "明日之子 第12期",
+        "alertid": 100002,
+        "belongCD": 6,
+        "cdIdx": 0,
+        "interval": 254,
+        "isonly": 1,
+        "label": "0",
+        "msgid": 0,
+        "pay": {
+          "payalbum": 0,
+          "payalbumprice": 0,
+          "paydownload": 1,
+          "payinfo": 1,
+          "payplay": 0,
+          "paytrackmouth": 1,
+          "paytrackprice": 0,
+          "timefree": 1
+        },
+        "preview": {
+          "trybegin": 0,
+          "tryend": 0,
+          "trysize": 0
+        },
+        "rate": 1,
+        "singer": [
+          {
+            "id": 5062,
+            "mid": "002J4UUk29y8BY",
+            "name": "薛之谦"
+          },
+          {
+            "id": 1507534,
+            "mid": "001BHDR33FZVZ0",
+            "name": "毛不易"
+          }
+        ],
+        "size128": 4079903,
+        "size320": 0,
+        "size5_1": 0,
+        "sizeape": 0,
+        "sizeflac": 0,
+        "sizeogg": 0,
+        "songid": 203761081,
+        "songmid": "000ygnVV1qmsx4",
+        "songname": "一半 (Live)",
+        "songorig": "一半",
+        "songtype": 0,
+        "strMediaMid": "000ygnVV1qmsx4",
+        "stream": 13,
+        "switch": 638739,
+        "type": 0,
+        "vid": "c0024uakqmb"
+      },
+      "playurl": "",
+      "price": 320,
+      "vid": {
+        "Fmv_id": "1362751",
+        "Fstatus": "1",
+        "Fvid": "c0024uakqmb"
+      }
+    },
+    {
+      "Flisten_count1": 0,
+      "Fupload_time": "2018-07-28 18:38:54",
+      "index": 56,
+      "isnew": 1,
+      "listenCount": 0,
+      "musicData": {
+        "albumdesc": "",
+        "albumid": 4259040,
+        "albummid": "003fP46b2nQIWT",
+        "albumname": "跨界歌王第三季 第12期",
+        "alertid": 11,
+        "belongCD": 4,
+        "cdIdx": 0,
+        "interval": 264,
+        "isonly": 1,
+        "label": "0",
+        "msgid": 0,
+        "pay": {
+          "payalbum": 0,
+          "payalbumprice": 0,
+          "paydownload": 0,
+          "payinfo": 0,
+          "payplay": 0,
+          "paytrackmouth": 0,
+          "paytrackprice": 0,
+          "timefree": 0
+        },
+        "preview": {
+          "trybegin": 0,
+          "tryend": 0,
+          "trysize": 0
+        },
+        "rate": 31,
+        "singer": [
+          {
+            "id": 5062,
+            "mid": "002J4UUk29y8BY",
+            "name": "薛之谦"
+          },
+          {
+            "id": 6735,
+            "mid": "004FU1O62y7MNA",
+            "name": "刘恺威"
+          }
+        ],
+        "size128": 4236680,
+        "size320": 10591331,
+        "size5_1": 0,
+        "sizeape": 29843067,
+        "sizeflac": 29873902,
+        "sizeogg": 5608562,
+        "songid": 215191269,
+        "songmid": "004bzXDP1LtqKR",
+        "songname": "方圆几里 (Live)",
+        "songorig": "方圆几里",
+        "songtype": 0,
+        "strMediaMid": "004bzXDP1LtqKR",
+        "stream": 13,
+        "switch": 605971,
+        "type": 0,
+        "vid": "f0027ljb7a0"
+      },
+      "playurl": "",
+      "price": 320,
+      "vid": {
+        "Fmv_id": "1479319",
+        "Fstatus": "1",
+        "Fvid": "f0027ljb7a0"
+      }
+    },
+    {
+      "Flisten_count1": 0,
+      "Fupload_time": "2018-07-07 18:00:26",
+      "index": 57,
+      "isnew": 1,
+      "listenCount": 0,
+      "musicData": {
+        "albumdesc": "",
+        "albumid": 4120698,
+        "albummid": "003cuntI4ANHpu",
+        "albumname": "无限歌谣季 第13期",
+        "alertid": 11,
+        "belongCD": 4,
+        "cdIdx": 0,
+        "interval": 187,
+        "isonly": 0,
+        "label": "0",
+        "msgid": 0,
+        "pay": {
+          "payalbum": 0,
+          "payalbumprice": 0,
+          "paydownload": 0,
+          "payinfo": 0,
+          "payplay": 0,
+          "paytrackmouth": 0,
+          "paytrackprice": 0,
+          "timefree": 0
+        },
+        "preview": {
+          "trybegin": 0,
+          "tryend": 0,
+          "trysize": 0
+        },
+        "rate": 31,
+        "singer": [
+          {
+            "id": 5062,
+            "mid": "002J4UUk29y8BY",
+            "name": "薛之谦"
+          },
+          {
+            "id": 1452474,
+            "mid": "004PLZM10aL7gW",
+            "name": "杨迪"
+          }
+        ],
+        "size128": 3008298,
+        "size320": 7520376,
+        "size5_1": 0,
+        "sizeape": 35805445,
+        "sizeflac": 35940739,
+        "sizeogg": 3903417,
+        "songid": 214341920,
+        "songmid": "000x9UMU0GDp9J",
+        "songname": "我不想毕业 (现场即兴创作版)",
+        "songorig": "我不想毕业",
+        "songtype": 0,
+        "strMediaMid": "000x9UMU0GDp9J",
+        "stream": 13,
+        "switch": 605971,
+        "type": 0,
+        "vid": ""
+      },
+      "playurl": "",
+      "price": 320,
+      "vid": {
+        "Fstatus": null
+      }
+    },
+    {
+      "Flisten_count1": 0,
+      "Fupload_time": "2013-12-12 15:49:12",
+      "index": 58,
+      "isnew": 0,
+      "listenCount": 0,
+      "musicData": {
+        "albumdesc": "",
+        "albumid": 443691,
+        "albummid": "000QgFcm0v8WaF",
+        "albumname": "意外",
+        "alertid": 11,
+        "belongCD": 7,
+        "cdIdx": 0,
+        "interval": 230,
+        "isonly": 0,
+        "label": "4611686018431582209",
+        "msgid": 0,
+        "pay": {
+          "payalbum": 0,
+          "payalbumprice": 0,
+          "paydownload": 0,
+          "payinfo": 0,
+          "payplay": 0,
+          "paytrackmouth": 0,
+          "paytrackprice": 0,
+          "timefree": 0
+        },
+        "preview": {
+          "trybegin": 61350,
+          "tryend": 80900,
+          "trysize": 0
+        },
+        "rate": 31,
+        "singer": [
+          {
+            "id": 5062,
+            "mid": "002J4UUk29y8BY",
+            "name": "薛之谦"
+          }
+        ],
+        "size128": 3688265,
+        "size320": 9220373,
+        "size5_1": 0,
+        "sizeape": 22228048,
+        "sizeflac": 22388822,
+        "sizeogg": 4831877,
+        "songid": 5106434,
+        "songmid": "002R8ZSu4Uvo27",
+        "songname": "我想起你了",
+        "songorig": "我想起你了",
+        "songtype": 0,
+        "strMediaMid": "002R8ZSu4Uvo27",
+        "stream": 13,
+        "switch": 605971,
+        "type": 0,
+        "vid": ""
+      },
+      "playurl": "",
+      "price": 320,
+      "vid": {
+        "Fstatus": null
+      }
+    },
+    {
+      "Flisten_count1": 0,
+      "Fupload_time": "2008-07-22 14:34:40",
+      "index": 59,
+      "isnew": 0,
+      "listenCount": 0,
+      "musicData": {
+        "albumdesc": "",
+        "albumid": 35403,
+        "albummid": "002yvVYW1XXUWq",
+        "albumname": "传说",
+        "alertid": 11,
+        "belongCD": 1,
+        "cdIdx": 0,
+        "interval": 271,
+        "isonly": 0,
+        "label": "4611686153723052033",
+        "msgid": 0,
+        "pay": {
+          "payalbum": 0,
+          "payalbumprice": 0,
+          "paydownload": 0,
+          "payinfo": 0,
+          "payplay": 0,
+          "paytrackmouth": 0,
+          "paytrackprice": 0,
+          "timefree": 0
+        },
+        "preview": {
+          "trybegin": 96083,
+          "tryend": 126690,
+          "trysize": 0
+        },
+        "rate": 1,
+        "singer": [
+          {
+            "id": 5062,
+            "mid": "002J4UUk29y8BY",
+            "name": "薛之谦"
+          }
+        ],
+        "size128": 4352252,
+        "size320": 0,
+        "size5_1": 0,
+        "sizeape": 0,
+        "sizeflac": 0,
+        "sizeogg": 0,
+        "songid": 435151,
+        "songmid": "003PvpTb41fgpA",
+        "songname": "传说",
+        "songorig": "传说",
+        "songtype": 0,
+        "strMediaMid": "003PvpTb41fgpA",
+        "stream": 13,
+        "switch": 81683,
+        "type": 0,
+        "vid": "p0090za3KrZ"
+      },
+      "playurl": "",
+      "price": 320,
+      "vid": {
+        "Fmv_id": "83634",
+        "Fstatus": "1",
+        "Fvid": "p0090za3KrZ"
+      }
+    },
+    {
+      "Flisten_count1": 0,
+      "Fupload_time": "2017-05-12 17:46:04",
+      "index": 60,
+      "isnew": 0,
+      "listenCount": 0,
+      "musicData": {
+        "albumdesc": "",
+        "albumid": 2045774,
+        "albummid": "000Mz83y3b2udF",
+        "albumname": "金曲捞 第5期",
+        "alertid": 100002,
+        "belongCD": 7,
+        "cdIdx": 0,
+        "interval": 254,
+        "isonly": 1,
+        "label": "0",
+        "msgid": 0,
+        "pay": {
+          "payalbum": 0,
+          "payalbumprice": 0,
+          "paydownload": 1,
+          "payinfo": 1,
+          "payplay": 0,
+          "paytrackmouth": 1,
+          "paytrackprice": 200,
+          "timefree": 1
+        },
+        "preview": {
+          "trybegin": 0,
+          "tryend": 0,
+          "trysize": 0
+        },
+        "rate": 31,
+        "singer": [
+          {
+            "id": 5062,
+            "mid": "002J4UUk29y8BY",
+            "name": "薛之谦"
+          },
+          {
+            "id": 4625,
+            "mid": "001Zu9d92MKxNu",
+            "name": "何洁"
+          }
+        ],
+        "size128": 4078229,
+        "size320": 10194825,
+        "size5_1": 0,
+        "sizeape": 28072077,
+        "sizeflac": 28245948,
+        "sizeogg": 5619299,
+        "songid": 202289861,
+        "songmid": "002qyYnV3FDopT",
+        "songname": "有没有 (Live)",
+        "songorig": "有没有",
+        "songtype": 0,
+        "strMediaMid": "002qyYnV3FDopT",
+        "stream": 13,
+        "switch": 17415955,
+        "type": 0,
+        "vid": "j0023fy09oj"
+      },
+      "playurl": "",
+      "price": 320,
+      "vid": {
+        "Fmv_id": "1231886",
+        "Fstatus": "1",
+        "Fvid": "j0023fy09oj"
+      }
+    },
+    {
+      "Flisten_count1": 0,
+      "Fupload_time": "2017-06-30 19:09:25",
+      "index": 61,
+      "isnew": 0,
+      "listenCount": 0,
+      "musicData": {
+        "albumdesc": "",
+        "albumid": 2136149,
+        "albummid": "0048Bvyp4IPy4Q",
+        "albumname": "金曲捞 第12期",
+        "alertid": 100002,
+        "belongCD": 3,
+        "cdIdx": 0,
+        "interval": 255,
+        "isonly": 1,
+        "label": "0",
+        "msgid": 0,
+        "pay": {
+          "payalbum": 0,
+          "payalbumprice": 0,
+          "paydownload": 1,
+          "payinfo": 1,
+          "payplay": 0,
+          "paytrackmouth": 1,
+          "paytrackprice": 200,
+          "timefree": 1
+        },
+        "preview": {
+          "trybegin": 0,
+          "tryend": 0,
+          "trysize": 0
+        },
+        "rate": 31,
+        "singer": [
+          {
+            "id": 5062,
+            "mid": "002J4UUk29y8BY",
+            "name": "薛之谦"
+          },
+          {
+            "id": 19535,
+            "mid": "003ULldz24exLi",
+            "name": "大张伟"
+          }
+        ],
+        "size128": 4085753,
+        "size320": 10214064,
+        "size5_1": 0,
+        "sizeape": 31719499,
+        "sizeflac": 31942226,
+        "sizeogg": 5534770,
+        "songid": 202984409,
+        "songmid": "000Ppo6s331AWj",
+        "songname": "意外 (Live)",
+        "songorig": "意外",
+        "songtype": 0,
+        "strMediaMid": "000Ppo6s331AWj",
+        "stream": 13,
+        "switch": 17415955,
+        "type": 0,
+        "vid": "f00243hkkuv"
+      },
+      "playurl": "",
+      "price": 320,
+      "vid": {
+        "Fmv_id": "1338363",
+        "Fstatus": "1",
+        "Fvid": "f00243hkkuv"
+      }
+    },
+    {
+      "Flisten_count1": 0,
+      "Fupload_time": "2012-04-11 21:51:16",
+      "index": 62,
+      "isnew": 0,
+      "listenCount": 0,
+      "musicData": {
+        "albumdesc": "",
+        "albumid": 37055,
+        "albummid": "001OdsAb1vBRlV",
+        "albumname": "深深爱过你",
+        "alertid": 11,
+        "belongCD": 2,
+        "cdIdx": 0,
+        "interval": 278,
+        "isonly": 0,
+        "label": "4611686018427387905",
+        "msgid": 0,
+        "pay": {
+          "payalbum": 0,
+          "payalbumprice": 0,
+          "paydownload": 0,
+          "payinfo": 0,
+          "payplay": 0,
+          "paytrackmouth": 0,
+          "paytrackprice": 0,
+          "timefree": 0
+        },
+        "preview": {
+          "trybegin": 73977,
+          "tryend": 108704,
+          "trysize": 0
+        },
+        "rate": 31,
+        "singer": [
+          {
+            "id": 5062,
+            "mid": "002J4UUk29y8BY",
+            "name": "薛之谦"
+          }
+        ],
+        "size128": 4453983,
+        "size320": 11134642,
+        "size5_1": 0,
+        "sizeape": 28972125,
+        "sizeflac": 29216506,
+        "sizeogg": 5958797,
+        "songid": 1257198,
+        "songmid": "003mM8cI1lFH8y",
+        "songname": "深深爱过你（前世）",
+        "songorig": "深深爱过你（前世）",
+        "songtype": 0,
+        "strMediaMid": "003mM8cI1lFH8y",
+        "stream": 13,
+        "switch": 81683,
+        "type": 0,
+        "vid": "p0013rf52kp"
+      },
+      "playurl": "",
+      "price": 320,
+      "vid": {
+        "Fmv_id": "23878",
+        "Fstatus": "1",
+        "Fvid": "p0013rf52kp"
+      }
+    },
+    {
+      "Flisten_count1": 0,
+      "Fupload_time": "2012-08-16 14:26:58",
+      "index": 63,
+      "isnew": 0,
+      "listenCount": 0,
+      "musicData": {
+        "albumdesc": "《音乐江湖》电影主题曲",
+        "albumid": 122328,
+        "albummid": "003qp8IX21MXH0",
+        "albumname": "几个薛之谦",
+        "alertid": 11,
+        "belongCD": 7,
+        "cdIdx": 0,
+        "interval": 261,
+        "isonly": 0,
+        "label": "4611686018431582209",
+        "msgid": 0,
+        "pay": {
+          "payalbum": 0,
+          "payalbumprice": 0,
+          "paydownload": 0,
+          "payinfo": 0,
+          "payplay": 0,
+          "paytrackmouth": 0,
+          "paytrackprice": 0,
+          "timefree": 0
+        },
+        "preview": {
+          "trybegin": 0,
+          "tryend": 0,
+          "trysize": 0
+        },
+        "rate": 31,
+        "singer": [
+          {
+            "id": 5062,
+            "mid": "002J4UUk29y8BY",
+            "name": "薛之谦"
+          },
+          {
+            "id": 11476,
+            "mid": "003AKgLE4SfjsK",
+            "name": "黄龄"
+          }
+        ],
+        "size128": 4189826,
+        "size320": 10474261,
+        "size5_1": 0,
+        "sizeape": 24400030,
+        "sizeflac": 24554341,
+        "sizeogg": 5407821,
+        "songid": 1771033,
+        "songmid": "000SY2Yo1CujnE",
+        "songname": "我们爱过就好",
+        "songorig": "我们爱过就好",
+        "songtype": 0,
+        "strMediaMid": "000bEJma0lLVc9",
+        "stream": 13,
+        "switch": 81683,
+        "type": 0,
+        "vid": "y0016lhiz2x"
+      },
+      "playurl": "",
+      "price": 320,
+      "vid": {
+        "Fmv_id": "366509",
+        "Fstatus": "1",
+        "Fvid": "y0016lhiz2x"
+      }
+    },
+    {
+      "Flisten_count1": 0,
+      "Fupload_time": "2012-04-27 15:43:34",
+      "index": 64,
+      "isnew": 0,
+      "listenCount": 0,
+      "musicData": {
+        "albumdesc": "",
+        "albumid": 51504,
+        "albummid": "003mUYW22JXKVK",
+        "albumname": "薛之谦",
+        "alertid": 100002,
+        "belongCD": 7,
+        "cdIdx": 0,
+        "interval": 254,
+        "isonly": 1,
+        "label": "4611686018431582209",
+        "msgid": 14,
+        "pay": {
+          "payalbum": 0,
+          "payalbumprice": 0,
+          "paydownload": 1,
+          "payinfo": 1,
+          "payplay": 0,
+          "paytrackmouth": 1,
+          "paytrackprice": 200,
+          "timefree": 0
+        },
+        "preview": {
+          "trybegin": 78661,
+          "tryend": 96360,
+          "trysize": 0
+        },
+        "rate": 31,
+        "singer": [
+          {
+            "id": 5062,
+            "mid": "002J4UUk29y8BY",
+            "name": "薛之谦"
+          }
+        ],
+        "size128": 4070290,
+        "size320": 10175420,
+        "size5_1": 0,
+        "sizeape": 26172576,
+        "sizeflac": 26037254,
+        "sizeogg": 5475274,
+        "songid": 1333808,
+        "songmid": "002MijoR3XjD4s",
+        "songname": "黄色枫叶",
+        "songorig": "黄色枫叶",
+        "songtype": 0,
+        "strMediaMid": "002MijoR3XjD4s",
+        "stream": 13,
+        "switch": 17413891,
+        "type": 0,
+        "vid": "r0090cRjHJl"
+      },
+      "playurl": "",
+      "price": 320,
+      "vid": {
+        "Fmv_id": "83635",
+        "Fstatus": "1",
+        "Fvid": "r0090cRjHJl"
+      }
+    },
+    {
+      "Flisten_count1": 0,
+      "Fupload_time": "2012-08-16 14:26:58",
+      "index": 65,
+      "isnew": 0,
+      "listenCount": 0,
+      "musicData": {
+        "albumdesc": "",
+        "albumid": 122328,
+        "albummid": "003qp8IX21MXH0",
+        "albumname": "几个薛之谦",
+        "alertid": 11,
+        "belongCD": 3,
+        "cdIdx": 0,
+        "interval": 286,
+        "isonly": 0,
+        "label": "4611686153723052033",
+        "msgid": 0,
+        "pay": {
+          "payalbum": 0,
+          "payalbumprice": 0,
+          "paydownload": 0,
+          "payinfo": 0,
+          "payplay": 0,
+          "paytrackmouth": 0,
+          "paytrackprice": 0,
+          "timefree": 0
+        },
+        "preview": {
+          "trybegin": 0,
+          "tryend": 0,
+          "trysize": 0
+        },
+        "rate": 31,
+        "singer": [
+          {
+            "id": 5062,
+            "mid": "002J4UUk29y8BY",
+            "name": "薛之谦"
+          }
+        ],
+        "size128": 4584073,
+        "size320": 11455289,
+        "size5_1": 0,
+        "sizeape": 31444623,
+        "sizeflac": 31613174,
+        "sizeogg": 6374544,
+        "songid": 1771029,
+        "songmid": "002uorgg2YGzjk",
+        "songname": "伏笔",
+        "songorig": "伏笔",
+        "songtype": 0,
+        "strMediaMid": "002uorgg2YGzjk",
+        "stream": 13,
+        "switch": 81683,
+        "type": 0,
+        "vid": "h0090NrXfkb"
+      },
+      "playurl": "",
+      "price": 320,
+      "vid": {
+        "Fmv_id": "80258",
+        "Fstatus": "1",
+        "Fvid": "h0090NrXfkb"
+      }
+    },
+    {
+      "Flisten_count1": 0,
+      "Fupload_time": "2012-08-16 14:26:58",
+      "index": 66,
+      "isnew": 0,
+      "listenCount": 0,
+      "musicData": {
+        "albumdesc": "",
+        "albumid": 122328,
+        "albummid": "003qp8IX21MXH0",
+        "albumname": "几个薛之谦",
+        "alertid": 11,
+        "belongCD": 5,
+        "cdIdx": 0,
+        "interval": 305,
+        "isonly": 0,
+        "label": "4611686153727246337",
+        "msgid": 0,
+        "pay": {
+          "payalbum": 0,
+          "payalbumprice": 0,
+          "paydownload": 0,
+          "payinfo": 0,
+          "payplay": 0,
+          "paytrackmouth": 0,
+          "paytrackprice": 0,
+          "timefree": 0
+        },
+        "preview": {
+          "trybegin": 0,
+          "tryend": 0,
+          "trysize": 0
+        },
+        "rate": 31,
+        "singer": [
+          {
+            "id": 5062,
+            "mid": "002J4UUk29y8BY",
+            "name": "薛之谦"
+          }
+        ],
+        "size128": 4889916,
+        "size320": 12224092,
+        "size5_1": 0,
+        "sizeape": 30577540,
+        "sizeflac": 30737482,
+        "sizeogg": 6846552,
+        "songid": 1771031,
+        "songmid": "002LbqoO2bf15S",
+        "songname": "我终于成了别人的女人",
+        "songorig": "我终于成了别人的女人",
+        "songtype": 0,
+        "strMediaMid": "001I26pE1XwHs2",
+        "stream": 13,
+        "switch": 81683,
+        "type": 0,
+        "vid": "Y00907Ur73Y"
+      },
+      "playurl": "",
+      "price": 320,
+      "vid": {
+        "Fmv_id": "66014",
+        "Fstatus": "1",
+        "Fvid": "Y00907Ur73Y"
+      }
+    },
+    {
+      "Flisten_count1": 0,
+      "Fupload_time": "2017-12-30 01:00:30",
+      "index": 67,
+      "isnew": 0,
+      "listenCount": 0,
+      "musicData": {
+        "albumdesc": "",
+        "albumid": 3851622,
+        "albummid": "000e36et0VmUI4",
+        "albumname": "“让幸福照亮你”江苏卫视2018跨年演唱会",
+        "alertid": 100000,
+        "belongCD": 40,
+        "cdIdx": 0,
+        "interval": 295,
+        "isonly": 1,
+        "label": "0",
+        "msgid": 0,
+        "pay": {
+          "payalbum": 0,
+          "payalbumprice": 0,
+          "paydownload": 0,
+          "payinfo": 1,
+          "payplay": 0,
+          "paytrackmouth": 1,
+          "paytrackprice": 0,
+          "timefree": 1
+        },
+        "preview": {
+          "trybegin": 0,
+          "tryend": 0,
+          "trysize": 0
+        },
+        "rate": 31,
+        "singer": [
+          {
+            "id": 5062,
+            "mid": "002J4UUk29y8BY",
+            "name": "薛之谦"
+          },
+          {
+            "id": 1507534,
+            "mid": "001BHDR33FZVZ0",
+            "name": "毛不易"
+          }
+        ],
+        "size128": 4734035,
+        "size320": 11834444,
+        "size5_1": 0,
+        "sizeape": 13337357,
+        "sizeflac": 13243870,
+        "sizeogg": 4584451,
+        "songid": 212683131,
+        "songmid": "001aeyIt0UVi1E",
+        "songname": "下雨了 (Live)",
+        "songorig": "下雨了",
+        "songtype": 0,
+        "strMediaMid": "00360htx0SSL7o",
+        "stream": 13,
+        "switch": 638847,
+        "type": 0,
+        "vid": "d0025unfdsp"
+      },
+      "playurl": "",
+      "price": 320,
+      "vid": {
+        "Fmv_id": "1438895",
+        "Fstatus": "1",
+        "Fvid": "d0025unfdsp"
+      }
+    },
+    {
+      "Flisten_count1": 0,
+      "Fupload_time": "2016-08-20 17:04:29",
+      "index": 68,
+      "isnew": 0,
+      "listenCount": 0,
+      "musicData": {
+        "albumdesc": "",
+        "albumid": 1570901,
+        "albummid": "004MPXsK2l9Vym",
+        "albumname": "跨界歌王 总决赛",
+        "alertid": 100002,
+        "belongCD": 5,
+        "cdIdx": 0,
+        "interval": 294,
+        "isonly": 1,
+        "label": "4611686018431582209",
+        "msgid": 14,
+        "pay": {
+          "payalbum": 0,
+          "payalbumprice": 0,
+          "paydownload": 1,
+          "payinfo": 1,
+          "payplay": 0,
+          "paytrackmouth": 1,
+          "paytrackprice": 200,
+          "timefree": 0
+        },
+        "preview": {
+          "trybegin": 0,
+          "tryend": 0,
+          "trysize": 0
+        },
+        "rate": 31,
+        "singer": [
+          {
+            "id": 15580,
+            "mid": "000BFczD2NDqrN",
+            "name": "刘涛"
+          },
+          {
+            "id": 5062,
+            "mid": "002J4UUk29y8BY",
+            "name": "薛之谦"
+          }
+        ],
+        "size128": 4718141,
+        "size320": 11795026,
+        "size5_1": 0,
+        "sizeape": 30007071,
+        "sizeflac": 30138757,
+        "sizeogg": 6527809,
+        "songid": 108172613,
+        "songmid": "000FPlKu2ibVOn",
+        "songname": "到不了 (Live)",
+        "songorig": "到不了",
+        "songtype": 0,
+        "strMediaMid": "000FPlKu2ibVOn",
+        "stream": 13,
+        "switch": 17413891,
+        "type": 0,
+        "vid": "u0021h612as"
+      },
+      "playurl": "",
+      "price": 320,
+      "vid": {
+        "Fmv_id": "1030940",
+        "Fstatus": "1",
+        "Fvid": "u0021h612as"
+      }
+    },
+    {
+      "Flisten_count1": 0,
+      "Fupload_time": "2017-06-23 19:20:01",
+      "index": 69,
+      "isnew": 0,
+      "listenCount": 0,
+      "musicData": {
+        "albumdesc": "",
+        "albumid": 2124471,
+        "albummid": "0025Y3Wa1BaFAI",
+        "albumname": "金曲捞 第11期",
+        "alertid": 100002,
+        "belongCD": 5,
+        "cdIdx": 0,
+        "interval": 294,
+        "isonly": 1,
+        "label": "0",
+        "msgid": 0,
+        "pay": {
+          "payalbum": 0,
+          "payalbumprice": 0,
+          "paydownload": 1,
+          "payinfo": 1,
+          "payplay": 0,
+          "paytrackmouth": 1,
+          "paytrackprice": 200,
+          "timefree": 1
+        },
+        "preview": {
+          "trybegin": 0,
+          "tryend": 0,
+          "trysize": 0
+        },
+        "rate": 31,
+        "singer": [
+          {
+            "id": 5062,
+            "mid": "002J4UUk29y8BY",
+            "name": "薛之谦"
+          },
+          {
+            "id": 11450,
+            "mid": "000TprbQ0R4aGb",
+            "name": "王栎鑫"
+          }
+        ],
+        "size128": 4719383,
+        "size320": 11798149,
+        "size5_1": 0,
+        "sizeape": 32919425,
+        "sizeflac": 33155857,
+        "sizeogg": 6302728,
+        "songid": 202881442,
+        "songmid": "002AzF2X2wIcZf",
+        "songname": "等我回家 (Live)",
+        "songorig": "等我回家",
+        "songtype": 0,
+        "strMediaMid": "002AzF2X2wIcZf",
+        "stream": 13,
+        "switch": 17415955,
+        "type": 0,
+        "vid": "w0024p79z0t"
+      },
+      "playurl": "",
+      "price": 320,
+      "vid": {
+        "Fmv_id": "1336285",
+        "Fstatus": "1",
+        "Fvid": "w0024p79z0t"
+      }
+    },
+    {
+      "Flisten_count1": 0,
+      "Fupload_time": "2012-04-22 15:00:44",
+      "index": 70,
+      "isnew": 0,
+      "listenCount": 0,
+      "musicData": {
+        "albumdesc": "",
+        "albumid": 32506,
+        "albummid": "004PY3HK4cv5z4",
+        "albumname": "你过得好吗",
+        "alertid": 11,
+        "belongCD": 2,
+        "cdIdx": 0,
+        "interval": 285,
+        "isonly": 0,
+        "label": "4611686153723052033",
+        "msgid": 0,
+        "pay": {
+          "payalbum": 0,
+          "payalbumprice": 0,
+          "paydownload": 0,
+          "payinfo": 0,
+          "payplay": 0,
+          "paytrackmouth": 0,
+          "paytrackprice": 0,
+          "timefree": 0
+        },
+        "preview": {
+          "trybegin": 0,
+          "tryend": 0,
+          "trysize": 0
+        },
+        "rate": 31,
+        "singer": [
+          {
+            "id": 5062,
+            "mid": "002J4UUk29y8BY",
+            "name": "薛之谦"
+          }
+        ],
+        "size128": 4566406,
+        "size320": 11415092,
+        "size5_1": 0,
+        "sizeape": 30331985,
+        "sizeflac": 30459203,
+        "sizeogg": 6523314,
+        "songid": 1308680,
+        "songmid": "00032rBg1JJA61",
+        "songname": "你过得好吗",
+        "songorig": "你过得好吗",
+        "songtype": 0,
+        "strMediaMid": "00032rBg1JJA61",
+        "stream": 13,
+        "switch": 81683,
+        "type": 0,
+        "vid": "v00906NrqDH"
+      },
+      "playurl": "",
+      "price": 320,
+      "vid": {
+        "Fmv_id": "83636",
+        "Fstatus": "1",
+        "Fvid": "v00906NrqDH"
+      }
+    },
+    {
+      "Flisten_count1": 0,
+      "Fupload_time": "2018-07-06 17:24:32",
+      "index": 71,
+      "isnew": 1,
+      "listenCount": 0,
+      "musicData": {
+        "albumdesc": "",
+        "albumid": 4118146,
+        "albummid": "003VEKyr3PIna4",
+        "albumname": "嗨，唱起来  第11期",
+        "alertid": 11,
+        "belongCD": 3,
+        "cdIdx": 0,
+        "interval": 233,
+        "isonly": 1,
+        "label": "0",
+        "msgid": 0,
+        "pay": {
+          "payalbum": 0,
+          "payalbumprice": 0,
+          "paydownload": 0,
+          "payinfo": 0,
+          "payplay": 0,
+          "paytrackmouth": 0,
+          "paytrackprice": 0,
+          "timefree": 0
+        },
+        "preview": {
+          "trybegin": 0,
+          "tryend": 0,
+          "trysize": 0
+        },
+        "rate": 31,
+        "singer": [
+          {
+            "id": 5062,
+            "mid": "002J4UUk29y8BY",
+            "name": "薛之谦"
+          },
+          {
+            "id": 1993721,
+            "mid": "004b1bLt0KdYTP",
+            "name": "单京妮"
+          }
+        ],
+        "size128": 3744722,
+        "size320": 9361467,
+        "size5_1": 0,
+        "sizeape": 26815317,
+        "sizeflac": 26848498,
+        "sizeogg": 5204610,
+        "songid": 214318931,
+        "songmid": "004fFecV4Fcqjl",
+        "songname": "因为爱情 (Live)",
+        "songorig": "因为爱情",
+        "songtype": 0,
+        "strMediaMid": "004fFecV4Fcqjl",
+        "stream": 13,
+        "switch": 605971,
+        "type": 0,
+        "vid": ""
+      },
+      "playurl": "",
+      "price": 320,
+      "vid": {
+        "Fstatus": null
+      }
+    },
+    {
+      "Flisten_count1": 0,
+      "Fupload_time": "2013-12-12 15:49:12",
+      "index": 72,
+      "isnew": 0,
+      "listenCount": 0,
+      "musicData": {
+        "albumdesc": "",
+        "albumid": 443691,
+        "albummid": "000QgFcm0v8WaF",
+        "albumname": "意外",
+        "alertid": 11,
+        "belongCD": 5,
+        "cdIdx": 0,
+        "interval": 239,
+        "isonly": 0,
+        "label": "4611686018431582209",
+        "msgid": 0,
+        "pay": {
+          "payalbum": 0,
+          "payalbumprice": 0,
+          "paydownload": 0,
+          "payinfo": 0,
+          "payplay": 0,
+          "paytrackmouth": 0,
+          "paytrackprice": 0,
+          "timefree": 0
+        },
+        "preview": {
+          "trybegin": 0,
+          "tryend": 0,
+          "trysize": 0
+        },
+        "rate": 31,
+        "singer": [
+          {
+            "id": 5062,
+            "mid": "002J4UUk29y8BY",
+            "name": "薛之谦"
+          }
+        ],
+        "size128": 3825354,
+        "size320": 9563098,
+        "size5_1": 0,
+        "sizeape": 26926906,
+        "sizeflac": 27171327,
+        "sizeogg": 5448588,
+        "songid": 5106432,
+        "songmid": "003W4ZjW0LJgnC",
+        "songname": "潮流季",
+        "songorig": "潮流季",
+        "songtype": 0,
+        "strMediaMid": "003W4ZjW0LJgnC",
+        "stream": 13,
+        "switch": 605971,
+        "type": 0,
+        "vid": ""
+      },
+      "playurl": "",
+      "price": 320,
+      "vid": {
+        "Fstatus": null
+      }
+    },
+    {
+      "Flisten_count1": 0,
+      "Fupload_time": "2016-07-04 12:16:21",
+      "index": 73,
+      "isnew": 0,
+      "listenCount": 0,
+      "musicData": {
+        "albumdesc": "",
+        "albumid": 1501560,
+        "albummid": "002A9RA21g89TS",
+        "albumname": "我想和你唱 第9期",
+        "alertid": 100002,
+        "belongCD": 6,
+        "cdIdx": 0,
+        "interval": 211,
+        "isonly": 1,
+        "label": "4611686018431582209",
+        "msgid": 14,
+        "pay": {
+          "payalbum": 0,
+          "payalbumprice": 0,
+          "paydownload": 1,
+          "payinfo": 1,
+          "payplay": 0,
+          "paytrackmouth": 1,
+          "paytrackprice": 200,
+          "timefree": 0
+        },
+        "preview": {
+          "trybegin": 0,
+          "tryend": 0,
+          "trysize": 0
+        },
+        "rate": 31,
+        "singer": [
+          {
+            "id": 5062,
+            "mid": "002J4UUk29y8BY",
+            "name": "薛之谦"
+          },
+          {
+            "id": 1186528,
+            "mid": "000StoMC27Djrx",
+            "name": "张婉清"
+          }
+        ],
+        "size128": 3388633,
+        "size320": 8471225,
+        "size5_1": 0,
+        "sizeape": 22799833,
+        "sizeflac": 22978921,
+        "sizeogg": 4815394,
+        "songid": 107541998,
+        "songmid": "000BRGUX48F8A1",
+        "songname": "演员 (Live)",
+        "songorig": "演员",
+        "songtype": 0,
+        "strMediaMid": "000BRGUX48F8A1",
+        "stream": 13,
+        "switch": 17413891,
+        "type": 0,
+        "vid": ""
+      },
+      "playurl": "",
+      "price": 320,
+      "vid": null
+    },
+    {
+      "Flisten_count1": 0,
+      "Fupload_time": "2017-04-14 19:21:47",
+      "index": 74,
+      "isnew": 0,
+      "listenCount": 0,
+      "musicData": {
+        "albumdesc": "",
+        "albumid": 2002287,
+        "albummid": "003oCYtF074aUH",
+        "albumname": "金曲捞 第1期",
+        "alertid": 100002,
+        "belongCD": 1,
+        "cdIdx": 0,
+        "interval": 199,
+        "isonly": 1,
+        "label": "0",
+        "msgid": 0,
+        "pay": {
+          "payalbum": 0,
+          "payalbumprice": 0,
+          "paydownload": 1,
+          "payinfo": 1,
+          "payplay": 0,
+          "paytrackmouth": 1,
+          "paytrackprice": 200,
+          "timefree": 1
+        },
+        "preview": {
+          "trybegin": 68777,
+          "tryend": 101478,
+          "trysize": 0
+        },
+        "rate": 31,
+        "singer": [
+          {
+            "id": 5062,
+            "mid": "002J4UUk29y8BY",
+            "name": "薛之谦"
+          },
+          {
+            "id": 1171415,
+            "mid": "003K5YQN41svZv",
+            "name": "李好"
+          }
+        ],
+        "size128": 3191742,
+        "size320": 7979047,
+        "size5_1": 0,
+        "sizeape": 21675291,
+        "sizeflac": 21808022,
+        "sizeogg": 4427135,
+        "songid": 201820110,
+        "songmid": "003jfsDf40khBX",
+        "songname": "为了遇见你 (Live)",
+        "songorig": "为了遇见你",
+        "songtype": 0,
+        "strMediaMid": "003jfsDf40khBX",
+        "stream": 13,
+        "switch": 17415955,
+        "type": 0,
+        "vid": "v0023amsvx0"
+      },
+      "playurl": "",
+      "price": 320,
+      "vid": {
+        "Fmv_id": "1215626",
+        "Fstatus": "1",
+        "Fvid": "v0023amsvx0"
+      }
+    },
+    {
+      "Flisten_count1": 0,
+      "Fupload_time": "2018-06-23 17:10:10",
+      "index": 75,
+      "isnew": 1,
+      "listenCount": 0,
+      "musicData": {
+        "albumdesc": "",
+        "albumid": 4094267,
+        "albummid": "0044m5Ur0fNxFU",
+        "albumname": "无限歌谣季 第10期",
+        "alertid": 11,
+        "belongCD": 1,
+        "cdIdx": 0,
+        "interval": 295,
+        "isonly": 0,
+        "label": "0",
+        "msgid": 0,
+        "pay": {
+          "payalbum": 0,
+          "payalbumprice": 0,
+          "paydownload": 0,
+          "payinfo": 0,
+          "payplay": 0,
+          "paytrackmouth": 0,
+          "paytrackprice": 0,
+          "timefree": 0
+        },
+        "preview": {
+          "trybegin": 0,
+          "tryend": 0,
+          "trysize": 0
+        },
+        "rate": 31,
+        "singer": [
+          {
+            "id": 60505,
+            "mid": "000aHmbL2aPXWH",
+            "name": "李荣浩"
+          },
+          {
+            "id": 2141361,
+            "mid": "001Cmj4p0cNdIZ",
+            "name": "周峻纬"
+          },
+          {
+            "id": 162572,
+            "mid": "003MaAft3QEapx",
+            "name": "JA符龙飞"
+          },
+          {
+            "id": 1041166,
+            "mid": "000eYnll0RgoOV",
+            "name": "张绍刚"
+          },
+          {
+            "id": 5062,
+            "mid": "002J4UUk29y8BY",
+            "name": "薛之谦"
+          },
+          {
+            "id": 1452474,
+            "mid": "004PLZM10aL7gW",
+            "name": "杨迪"
+          },
+          {
+            "id": 67008,
+            "mid": "000poF8D027tPr",
+            "name": "于文文"
+          },
+          {
+            "id": 945156,
+            "mid": "001OgCGE2H7kaD",
+            "name": "伊一"
+          },
+          {
+            "id": 1507534,
+            "mid": "001BHDR33FZVZ0",
+            "name": "毛不易"
+          },
+          {
+            "id": 189107,
+            "mid": "0003CDDY4bDRAj",
+            "name": "岳云鹏"
+          }
+        ],
+        "size128": 4726496,
+        "size320": 11815920,
+        "size5_1": 0,
+        "sizeape": 64805189,
+        "sizeflac": 65131787,
+        "sizeogg": 6430348,
+        "songid": 214173497,
+        "songmid": "003mimOV25zThd",
+        "songname": "稳稳的幸福 + 因为爱情 + 情书 + 终于等到你 + 最浪漫的事 (Live)",
+        "songorig": "稳稳的幸福 + 因为爱情 + 情书 + 终于等到你 + 最浪漫的事",
+        "songtype": 0,
+        "strMediaMid": "003mimOV25zThd",
+        "stream": 13,
+        "switch": 605971,
+        "type": 0,
+        "vid": ""
+      },
+      "playurl": "",
+      "price": 320,
+      "vid": {
+        "Fstatus": null
+      }
+    },
+    {
+      "Flisten_count1": 0,
+      "Fupload_time": "2017-02-12 17:04:27",
+      "index": 76,
+      "isnew": 0,
+      "listenCount": 0,
+      "musicData": {
+        "albumdesc": "",
+        "albumid": 1840337,
+        "albummid": "0035hOHV0uUWA9",
+        "albumname": "《我们的挑战》新春歌会特辑",
+        "alertid": 100002,
+        "belongCD": 6,
+        "cdIdx": 0,
+        "interval": 318,
+        "isonly": 1,
+        "label": "0",
+        "msgid": 0,
+        "pay": {
+          "payalbum": 0,
+          "payalbumprice": 0,
+          "paydownload": 1,
+          "payinfo": 1,
+          "payplay": 0,
+          "paytrackmouth": 1,
+          "paytrackprice": 200,
+          "timefree": 1
+        },
+        "preview": {
+          "trybegin": 96580,
+          "tryend": 128270,
+          "trysize": 0
+        },
+        "rate": 31,
+        "singer": [
+          {
+            "id": 5062,
+            "mid": "002J4UUk29y8BY",
+            "name": "薛之谦"
+          },
+          {
+            "id": 1038252,
+            "mid": "0003R3WI40ZZYG",
+            "name": "欧阳娜娜"
+          }
+        ],
+        "size128": 5095156,
+        "size320": 12737540,
+        "size5_1": 0,
+        "sizeape": 34522623,
+        "sizeflac": 34869347,
+        "sizeogg": 6744553,
+        "songid": 200670066,
+        "songmid": "001kEuh21eXnz3",
+        "songname": "绅士 (Live)",
+        "songorig": "绅士",
+        "songtype": 0,
+        "strMediaMid": "001kEuh21eXnz3",
+        "stream": 13,
+        "switch": 17415955,
+        "type": 0,
+        "vid": ""
+      },
+      "playurl": "",
+      "price": 320,
+      "vid": {
+        "Fstatus": null
+      }
+    },
+    {
+      "Flisten_count1": 0,
+      "Fupload_time": "2012-08-16 14:26:58",
+      "index": 77,
+      "isnew": 0,
+      "listenCount": 0,
+      "musicData": {
+        "albumdesc": "",
+        "albumid": 122328,
+        "albummid": "003qp8IX21MXH0",
+        "albumname": "几个薛之谦",
+        "alertid": 11,
+        "belongCD": 6,
+        "cdIdx": 0,
+        "interval": 249,
+        "isonly": 0,
+        "label": "4611686153723052033",
+        "msgid": 0,
+        "pay": {
+          "payalbum": 0,
+          "payalbumprice": 0,
+          "paydownload": 0,
+          "payinfo": 0,
+          "payplay": 0,
+          "paytrackmouth": 0,
+          "paytrackprice": 0,
+          "timefree": 0
+        },
+        "preview": {
+          "trybegin": 0,
+          "tryend": 0,
+          "trysize": 0
+        },
+        "rate": 31,
+        "singer": [
+          {
+            "id": 5062,
+            "mid": "002J4UUk29y8BY",
+            "name": "薛之谦"
+          }
+        ],
+        "size128": 3990034,
+        "size320": 9974308,
+        "size5_1": 0,
+        "sizeape": 22118816,
+        "sizeflac": 22046969,
+        "sizeogg": 5151898,
+        "songid": 1771032,
+        "songmid": "004HwNXO3yjtSO",
+        "songname": "敷衍",
+        "songorig": "敷衍",
+        "songtype": 0,
+        "strMediaMid": "001rg5lj22LuXM",
+        "stream": 13,
+        "switch": 81683,
+        "type": 0,
+        "vid": ""
+      },
+      "playurl": "",
+      "price": 320,
+      "vid": {
+        "Fstatus": null
+      }
+    },
+    {
+      "Flisten_count1": 0,
+      "Fupload_time": "2016-08-19 16:58:18",
+      "index": 78,
+      "isnew": 0,
+      "listenCount": 0,
+      "musicData": {
+        "albumdesc": "",
+        "albumid": 1571017,
+        "albummid": "0027uJLa4Fp38e",
+        "albumname": "挑战者联盟 “畅响盛典”演唱会",
+        "alertid": 100002,
+        "belongCD": 4,
+        "cdIdx": 0,
+        "interval": 338,
+        "isonly": 1,
+        "label": "4611686018431582209",
+        "msgid": 14,
+        "pay": {
+          "payalbum": 0,
+          "payalbumprice": 0,
+          "paydownload": 1,
+          "payinfo": 1,
+          "payplay": 0,
+          "paytrackmouth": 1,
+          "paytrackprice": 200,
+          "timefree": 0
+        },
+        "preview": {
+          "trybegin": 0,
+          "tryend": 0,
+          "trysize": 0
+        },
+        "rate": 31,
+        "singer": [
+          {
+            "id": 5062,
+            "mid": "002J4UUk29y8BY",
+            "name": "薛之谦"
+          },
+          {
+            "id": 167,
+            "mid": "0000mFvh1jtLcz",
+            "name": "张信哲"
+          }
+        ],
+        "size128": 5423678,
+        "size320": 13558326,
+        "size5_1": 0,
+        "sizeape": 35183904,
+        "sizeflac": 35372334,
+        "sizeogg": 7569434,
+        "songid": 108167564,
+        "songmid": "002U2CnX0pbm3C",
+        "songname": "信仰 + 演员 + 爱如潮水 (Live)",
+        "songorig": "信仰 + 演员 + 爱如潮水",
+        "songtype": 0,
+        "strMediaMid": "002U2CnX0pbm3C",
+        "stream": 13,
+        "switch": 17413891,
+        "type": 0,
+        "vid": "y0021zi1d09"
+      },
+      "playurl": "",
+      "price": 320,
+      "vid": {
+        "Fmv_id": "1038798",
+        "Fstatus": "1",
+        "Fvid": "y0021zi1d09"
+      }
+    },
+    {
+      "Flisten_count1": 0,
+      "Fupload_time": "2009-12-14 15:29:08",
+      "index": 79,
+      "isnew": 0,
+      "listenCount": 0,
+      "musicData": {
+        "albumdesc": "",
+        "albumid": 55085,
+        "albummid": "0036fT613sAeZn",
+        "albumname": "未完成的歌",
+        "alertid": 11,
+        "belongCD": 14,
+        "cdIdx": 0,
+        "interval": 235,
+        "isonly": 0,
+        "label": "4611686018435776513",
+        "msgid": 0,
+        "pay": {
+          "payalbum": 0,
+          "payalbumprice": 0,
+          "paydownload": 0,
+          "payinfo": 0,
+          "payplay": 0,
+          "paytrackmouth": 0,
+          "paytrackprice": 0,
+          "timefree": 0
+        },
+        "preview": {
+          "trybegin": 0,
+          "tryend": 0,
+          "trysize": 0
+        },
+        "rate": 31,
+        "singer": [
+          {
+            "id": 5062,
+            "mid": "002J4UUk29y8BY",
+            "name": "薛之谦"
+          }
+        ],
+        "size128": 3773796,
+        "size320": 9425157,
+        "size5_1": 0,
+        "sizeape": 23164922,
+        "sizeflac": 23794432,
+        "sizeogg": 5109157,
+        "songid": 647971,
+        "songmid": "002cAqf01Wz9yP",
+        "songname": "爱我的人 谢谢你",
+        "songorig": "爱我的人 谢谢你",
+        "songtype": 0,
+        "strMediaMid": "002cAqf01Wz9yP",
+        "stream": 13,
+        "switch": 81683,
+        "type": 0,
+        "vid": ""
+      },
+      "playurl": "",
+      "price": 320,
+      "vid": {
+        "Fstatus": null
+      }
+    },
+    {
+      "Flisten_count1": 0,
+      "Fupload_time": "2017-03-11 12:21:14",
+      "index": 80,
+      "isnew": 0,
+      "listenCount": 0,
+      "musicData": {
+        "albumdesc": "",
+        "albumid": 2129667,
+        "albummid": "002EVEyQ19zKy9",
+        "albumname": "超强音浪 第9期",
+        "alertid": 100002,
+        "belongCD": 2,
+        "cdIdx": 0,
+        "interval": 162,
+        "isonly": 1,
+        "label": "0",
+        "msgid": 14,
+        "pay": {
+          "payalbum": 0,
+          "payalbumprice": 0,
+          "paydownload": 1,
+          "payinfo": 1,
+          "payplay": 0,
+          "paytrackmouth": 1,
+          "paytrackprice": 200,
+          "timefree": 0
+        },
+        "preview": {
+          "trybegin": 0,
+          "tryend": 0,
+          "trysize": 0
+        },
+        "rate": 31,
+        "singer": [
+          {
+            "id": 5062,
+            "mid": "002J4UUk29y8BY",
+            "name": "薛之谦"
+          }
+        ],
+        "size128": 2598664,
+        "size320": 6496342,
+        "size5_1": 0,
+        "sizeape": 17640968,
+        "sizeflac": 17619859,
+        "sizeogg": 3518653,
+        "songid": 201040722,
+        "songmid": "0034Obj31BgBA5",
+        "songname": "忘记你我做不到 (Live)",
+        "songorig": "忘记你我做不到",
+        "songtype": 0,
+        "strMediaMid": "0018ZBz03mzZQo",
+        "stream": 13,
+        "switch": 17409795,
+        "type": 0,
+        "vid": "r0023qhbqjd"
+      },
+      "playurl": "",
+      "price": 320,
+      "vid": {
+        "Fmv_id": "1102500",
+        "Fstatus": "1",
+        "Fvid": "r0023qhbqjd"
+      }
+    }
+  ],
+  "singer_id": "5062",
+  "singer_mid": "002J4UUk29y8BY",
+  "singer_name": "薛之谦",
+  "total": 191
+}

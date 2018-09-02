@@ -5,8 +5,7 @@
       <div class="progress-btn-wrapper" ref="progressBtn"
            @touchstart.prevent="progressTouchStart"
            @touchmove.prevent="progressTouchMove"
-           @touchend="progressTouchEnd"
-      >
+           @touchend="progressTouchEnd">
         <div class="progress-btn"></div>
       </div>
     </div>

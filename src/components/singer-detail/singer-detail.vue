@@ -38,20 +38,18 @@
           return
         }
         getSingerDetail(this.singer.id).then((res) => {
+          // console.log(JSON.stringify(res.data))
           if (res.code === ERR_OK) {
-            this.songs = this._normalizeSongs(res.data.list)
+            let ret = []
+            res.data.list.forEach((item) => {
+              let {musicData} = item
+              if (musicData.songid && musicData.albummid) {
+                ret.push(createSong(musicData))
+              }
+            })
+            this.songs = ret
           }
         })
-      },
-      _normalizeSongs(list) {
-        let ret = []
-        list.forEach((item) => {
-          let {musicData} = item
-          if (musicData.songid && musicData.albummid) {
-            ret.push(createSong(musicData))
-          }
-        })
-        return ret
       }
     },
     components: {

@@ -1,7 +1,7 @@
 <template>
   <div class="singer" ref="singer">
     <list-view @select="selectSinger" :data="singers" ref="list"/>
-    <router-view/>
+    <router-view></router-view>
   </div>
 </template>
 
@@ -78,8 +78,7 @@
         return hot.concat(ret)
       },
       handlePlaylist(playlist) {
-        const bottom = playlist.length > 0 ? '60px' : ''
-        this.$refs.singer.style.bottom = bottom
+        this.$refs.singer.style.bottom = playlist.length > 0 ? '60px' : ''
         this.$refs.list.refresh()
       },
       selectSinger(singer) {

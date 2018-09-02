@@ -33,8 +33,7 @@
           <scroll class="middle-r" ref="lyricList" :data="currentLyric && currentLyric.lines">
             <div class="lyric-wrapper">
               <div v-if="currentLyric">
-                <p ref="lyricLine" class="text" :key="index"
-                   :class="{'current': currentLineNum ===index}"
+                <p ref="lyricLine" class="text" :key="index" :class="{'current': currentLineNum ===index}"
                    v-for="(line,index) in currentLyric.lines">{{line.txt}}</p>
               </div>
             </div>
@@ -72,6 +71,7 @@
         </div>
       </div>
     </transition>
+
     <transition name="mini">
       <div class="mini-player" v-show="!fullScreen" @click="open">
         <div class="icon">
@@ -92,7 +92,11 @@
       </div>
     </transition>
     <playlist ref="playlist"></playlist>
-    <audio ref="audio" :src="currentSong.url" @play="ready" @error="error" @timeupdate="updateTime"
+
+    <audio ref="audio" :src="currentSong.url"
+           @play="ready"
+           @error="error"
+           @timeupdate="updateTime"
            @ended="end"></audio>
   </div>
 </template>
@@ -143,6 +147,7 @@
       },
       ...mapGetters([
         'currentIndex',
+        'currentSong',
         'fullScreen',
         'playing'
       ])
@@ -159,7 +164,6 @@
       },
       enter(el, done) {
         const {x, y, scale} = this._getPosAndScale()
-
         let animation = {
           0: {
             transform: `translate3d(${x}px,${y}px,0) scale(${scale})`
@@ -171,7 +175,6 @@
             transform: `translate3d(0,0,0) scale(1)`
           }
         }
-
         animations.registerAnimation({
           name: 'move',
           animation,
@@ -180,7 +183,6 @@
             easing: 'linear'
           }
         })
-
         animations.runAnimation(this.$refs.cdWrapper, 'move', done)
       },
       afterEnter() {
@@ -262,6 +264,8 @@
       ready() {
         this.songReady = true
         this.savePlayHistory(this.currentSong)
+        console.log('currentSong')
+        console.log(JSON.stringify(this.currentSong))
       },
       error() {
         this.songReady = true
@@ -375,6 +379,7 @@
         this.touch.initiated = false
       },
       _pad(num, n = 2) {
+        // 时间补0
         let len = num.toString().length
         while (len < n) {
           num = '0' + num
@@ -516,6 +521,7 @@
             top: 0
             width: 80%
             height: 100%
+            /*border: solid 1px red*/
             .cd
               width: 100%
               height: 100%
@@ -533,7 +539,6 @@
                 width: 100%
                 height: 100%
                 border-radius: 50%
-
           .playing-lyric-wrapper
             width: 80%
             margin: 30px auto 0 auto
@@ -660,6 +665,7 @@
         flex: 1
         line-height: 20px
         overflow: hidden
+        text-align: left
         .name
           margin-bottom: 2px
           no-wrap()

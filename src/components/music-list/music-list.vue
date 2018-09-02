@@ -1,8 +1,6 @@
 <template>
   <div class="music-list">
-    <div class="back" @click="back">
-      <i class="icon-back"></i>
-    </div>
+    <div class="back" @click="back"><i class="icon-back"></i></div>
     <h1 class="title" v-html="title"></h1>
     <div class="bg-image" :style="bgStyle" ref="bgImage">
       <div class="play-wrapper">
@@ -15,9 +13,11 @@
     </div>
     <div class="bg-layer" ref="layer"></div>
     <scroll :data="songs" @scroll="scroll"
-            :listen-scroll="listenScroll" :probe-type="probeType" class="list" ref="list">
+            :listen-scroll="listenScroll"
+            :probe-type="probeType"
+            class="list" ref="list">
       <div class="song-list-wrapper">
-        <song-list :songs="songs" :rank="rank" @select="selectItem"></song-list>
+        <song-list :songs="songs" :rank="rank" @select="selectItem"/>
       </div>
       <div v-show="!songs.length" class="loading-container">
         <loading></loading>
@@ -81,8 +81,7 @@
     },
     methods: {
       handlePlaylist(playlist) {
-        const bottom = playlist.length > 0 ? '60px' : ''
-        this.$refs.list.$el.style.bottom = bottom
+        this.$refs.list.$el.style.bottom = playlist.length > 0 ? '60px' : ''
         this.$refs.list.refresh()
       },
       scroll(pos) {
@@ -120,7 +119,6 @@
         } else {
           blur = Math.min(20, percent * 20)
         }
-
         this.$refs.layer.style[transform] = `translate3d(0,${translateY}px,0)`
         this.$refs.filter.style[backdrop] = `blur(${blur}px)`
         if (newVal < this.minTransalteY) {
@@ -220,6 +218,7 @@
       position: relative
       height: 100%
       background: $color-background
+      border: solid red 1px
     .list
       position: fixed
       top: 0
