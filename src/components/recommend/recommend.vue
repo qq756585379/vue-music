@@ -65,7 +65,7 @@
             let firstitem = sliderdata[0]
             sliderdata.push(firstitem)
             sliderdata.unshift(lastitem)
-            console.log(JSON.stringify(sliderdata))
+            // console.log(JSON.stringify(sliderdata))
             this.recommends = sliderdata
           }
         })
@@ -73,7 +73,7 @@
       _getDiscList() {
         getDiscList().then((res) => {
           if (res.code === 0) {
-            console.log(res.data)
+            // console.log(res.data)
             this.discList = res.data.list
           }
         })

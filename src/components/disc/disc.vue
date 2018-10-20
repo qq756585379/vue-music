@@ -12,6 +12,11 @@
   import {createSong} from 'common/js/song'
 
   export default {
+    data() {
+      return {
+        songs: []
+      }
+    },
     computed: {
       title() {
         return this.disc.dissname
@@ -23,11 +28,6 @@
         'disc'
       ])
     },
-    data() {
-      return {
-        songs: []
-      }
-    },
     created() {
       this._getSongList()
     },
@@ -38,6 +38,7 @@
           return
         }
         getSongList(this.disc.dissid).then((res) => {
+          console.log(res)
           if (res.code === ERR_OK) {
             this.songs = this._normalizeSongs(res.cdlist[0].songlist)
           }

@@ -91,6 +91,7 @@
         </div>
       </div>
     </transition>
+
     <playlist ref="playlist"></playlist>
 
     <audio ref="audio" :src="currentSong.url"
