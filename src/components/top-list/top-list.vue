@@ -7,7 +7,6 @@
 <script type="text/ecmascript-6">
   import MusicList from 'components/music-list/music-list'
   import {getMusicList} from 'api/rank'
-  import {ERR_OK} from 'api/config'
   import {mapGetters} from 'vuex'
   import {createSong} from 'common/js/song'
 
@@ -42,7 +41,7 @@
           return
         }
         getMusicList(this.topList.id).then((res) => {
-          if (res.code === ERR_OK) {
+          if (res.code === 0) {
             this.songs = this._normalizeSongs(res.songlist)
           }
         })

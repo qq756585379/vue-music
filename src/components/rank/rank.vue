@@ -26,7 +26,6 @@
   import Scroll from 'base/scroll/scroll'
   import Loading from 'base/loading/loading'
   import {getTopList} from 'api/rank'
-  import {ERR_OK} from 'api/config'
   import {playlistMixin} from 'common/js/mixin'
   import {mapMutations} from 'vuex'
 
@@ -43,7 +42,6 @@
     methods: {
       handlePlaylist(playlist) {
         const bottom = playlist.length > 0 ? '60px' : ''
-
         this.$refs.rank.style.bottom = bottom
         this.$refs.toplist.refresh()
       },
@@ -55,7 +53,7 @@
       },
       _getTopList() {
         getTopList().then((res) => {
-          if (res.code === ERR_OK) {
+          if (res.code === 0) {
             this.topList = res.data.topList
           }
         })

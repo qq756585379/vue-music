@@ -2,7 +2,7 @@
   <div class="recommend" ref="recommend">
     <scroll ref="scroll" class="recommend-content" :data="discList">
       <div>
-        <div v-if="recommends.length" class="slider-wrapper" ref="sliderWrapper">
+        <div v-if="recommends.length" class="slider-wrapper">
           <slider>
             <div :key="index" v-for="(item, index) in recommends">
               <a :href="item.linkUrl">
@@ -36,7 +36,8 @@
 
 <script type="text/ecmascript-6">
   import Scroll from '@/base/scroll/scroll'
-  import {getRecommend, getDiscList} from '@/api/recommend'
+  import {getDiscList} from '@/api/recommend'
+  import {getBanner} from '@/api/api'
   import Slider from '@/base/slider/slider'
   import Loading from '@/base/loading/loading'
   import {playlistMixin} from 'common/js/mixin'
@@ -56,24 +57,31 @@
     mixins: [playlistMixin],
     methods: {
       _getRecommend() {
-        getRecommend().then((res) => {
-          if (res.code === 0) {
-            let sliderdata = res.data.slider
-            sliderdata.shift()
-            sliderdata.shift()
-            let lastitem = sliderdata[sliderdata.length - 1]
-            let firstitem = sliderdata[0]
-            sliderdata.push(firstitem)
-            sliderdata.unshift(lastitem)
-            // console.log(JSON.stringify(sliderdata))
-            this.recommends = sliderdata
-          }
+        getBanner().then(res => {
+          let sliderdata = res.banner
+          let lastitem = sliderdata[sliderdata.length - 1]
+          let firstitem = sliderdata[0]
+          sliderdata.push(firstitem)
+          sliderdata.unshift(lastitem)
+          this.recommends = sliderdata
         })
+        // getRecommend().then((res) => {
+        //   if (res.code === 0) {
+        //     let sliderdata = res.data.slider
+        //     sliderdata.shift()
+        //     sliderdata.shift()
+        //     let lastitem = sliderdata[sliderdata.length - 1]
+        //     let firstitem = sliderdata[0]
+        //     sliderdata.push(firstitem)
+        //     sliderdata.unshift(lastitem)
+        //     console.log(JSON.stringify(sliderdata))
+        //     this.recommends = sliderdata
+        //   }
+        // })
       },
       _getDiscList() {
         getDiscList().then((res) => {
           if (res.code === 0) {
-            // console.log(res.data)
             this.discList = res.data.list
           }
         })

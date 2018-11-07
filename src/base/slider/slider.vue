@@ -31,8 +31,8 @@
     },
     data() {
       return {
-        dots: [],
-        currentPageIndex: 0
+        currentPageIndex: 0,
+        dots: []
       }
     },
     mounted() {
@@ -105,9 +105,7 @@
             pageIndex -= 1
           }
           this.currentPageIndex = pageIndex
-          if (this.autoPlay) {
-            this._play()
-          }
+          if (this.autoPlay) this._play()
         })
         this.slider.on('beforeScrollStart', () => {
           if (this.autoPlay) {

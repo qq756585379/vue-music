@@ -1,0 +1,283 @@
+{
+  "code": 0,
+  "subcode": 0,
+  "message": "",
+  "default": 0,
+  "data": {
+    "topList": [
+      {
+        "id": 4,
+        "listenCount": 19500000,
+        "picUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/toplist_1540785077_4_300_218763493.jpg",
+        "songList": [
+          {
+            "singername": "林俊杰",
+            "songname": "不能说的秘密 (Live)"
+          },
+          {
+            "singername": "王嘉尔",
+            "songname": "该死的温柔 (Live)"
+          },
+          {
+            "singername": "叶炫清",
+            "songname": "归去来兮"
+          }
+        ],
+        "topTitle": "巅峰榜·流行指数",
+        "type": 0
+      },
+      {
+        "id": 26,
+        "listenCount": 19400000,
+        "picUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/toplist_1540785077_26_300_218081166.jpg",
+        "songList": [
+          {
+            "singername": "张杰",
+            "songname": "没说什么"
+          },
+          {
+            "singername": "李荣浩",
+            "songname": "耳朵"
+          },
+          {
+            "singername": "G.E.M. 邓紫棋",
+            "songname": "光年之外"
+          }
+        ],
+        "topTitle": "巅峰榜·热歌",
+        "type": 0
+      },
+      {
+        "id": 27,
+        "listenCount": 15300000,
+        "picUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/toplist_1540785077_27_300_218277339.jpg",
+        "songList": [
+          {
+            "singername": "叶炫清",
+            "songname": "归去来兮"
+          },
+          {
+            "singername": "李荣浩",
+            "songname": "耳朵"
+          },
+          {
+            "singername": "G.E.M. 邓紫棋",
+            "songname": "那一夜"
+          }
+        ],
+        "topTitle": "巅峰榜·新歌",
+        "type": 0
+      },
+      {
+        "id": 28,
+        "listenCount": 19900000,
+        "picUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/toplist_1540785077_28_300_108346098.jpg",
+        "songList": [
+          {
+            "singername": "韩安旭",
+            "songname": "不在"
+          },
+          {
+            "singername": "宋孟君",
+            "songname": "地铁等待"
+          },
+          {
+            "singername": "艾辰",
+            "songname": "可不可以"
+          }
+        ],
+        "topTitle": "巅峰榜·网络歌曲",
+        "type": 0
+      },
+      {
+        "id": 5,
+        "listenCount": 5680660,
+        "picUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/toplist_1540785077_5_300_218224536.jpg",
+        "songList": [
+          {
+            "singername": "李荣浩",
+            "songname": "耳朵"
+          },
+          {
+            "singername": "张杰",
+            "songname": "没说什么"
+          },
+          {
+            "singername": "李荣浩",
+            "songname": "贝贝"
+          }
+        ],
+        "topTitle": "巅峰榜·内地",
+        "type": 0
+      },
+      {
+        "id": 6,
+        "listenCount": 4083840,
+        "picUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/toplist_1540785077_6_300_218240445.jpg",
+        "songList": [
+          {
+            "singername": "A-Lin",
+            "songname": "恰好"
+          },
+          {
+            "singername": "A-Lin",
+            "songname": "有一种悲伤"
+          },
+          {
+            "singername": "吴克群",
+            "songname": "你敢不敢再傻一次"
+          }
+        ],
+        "topTitle": "巅峰榜·港台",
+        "type": 0
+      },
+      {
+        "id": 3,
+        "listenCount": 9100000,
+        "picUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/toplist_1540785077_3_300_218267808.jpg",
+        "songList": [
+          {
+            "singername": "Dua Lipa",
+            "songname": "Kiss and Make Up"
+          },
+          {
+            "singername": "Charli XCX",
+            "songname": "1999"
+          },
+          {
+            "singername": "Sia",
+            "songname": "I'm Still Here"
+          }
+        ],
+        "topTitle": "巅峰榜·欧美",
+        "type": 0
+      },
+      {
+        "id": 16,
+        "listenCount": 5820800,
+        "picUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/toplist_1540785077_16_300_218481091.jpg",
+        "songList": [
+          {
+            "singername": "조이 (Joy)",
+            "songname": "나라는 꿈"
+          },
+          {
+            "singername": "TWICE (트와이스)",
+            "songname": "STAY BY MY SIDE"
+          },
+          {
+            "singername": "윤미래 (尹美莱)",
+            "songname": "그대 그대 그대"
+          }
+        ],
+        "topTitle": "巅峰榜·韩国",
+        "type": 0
+      },
+      {
+        "id": 29,
+        "listenCount": 2858800,
+        "picUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/toplist_1540785077_29_300_218277339.jpg",
+        "songList": [
+          {
+            "singername": "叶炫清",
+            "songname": "归去来兮"
+          },
+          {
+            "singername": "조이 (Joy)",
+            "songname": "나라는 꿈"
+          },
+          {
+            "singername": "火箭少女101",
+            "songname": "卡路里"
+          }
+        ],
+        "topTitle": "巅峰榜·影视金曲",
+        "type": 0
+      },
+      {
+        "id": 17,
+        "listenCount": 1950000,
+        "picUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/toplist_1540785077_17_300_218054102.jpg",
+        "songList": [
+          {
+            "singername": "ビッケブランカ (Vicke Blanka)",
+            "songname": "まっしろ (白皑)"
+          },
+          {
+            "singername": "m-flo (陨-浮流)",
+            "songname": "PSYCHIC MAGIC"
+          },
+          {
+            "singername": "End of the World (世界の終わり)",
+            "songname": "イルミネーション (Illumination)"
+          }
+        ],
+        "topTitle": "巅峰榜·日本",
+        "type": 0
+      },
+      {
+        "id": 201,
+        "listenCount": 192241,
+        "picUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/toplist_1540785077_201_300_1491431.jpg",
+        "songList": [
+          {
+            "singername": "戚薇",
+            "songname": "一冷一热"
+          },
+          {
+            "singername": "张伦硕",
+            "songname": "匆匆来过"
+          },
+          {
+            "singername": "张艺兴",
+            "songname": "梦不落雨林"
+          }
+        ],
+        "topTitle": "巅峰榜·MV",
+        "type": 0
+      },
+      {
+        "id": 52,
+        "listenCount": 1742190,
+        "picUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/toplist_1540785077_52_300_218245574.jpg",
+        "songList": [
+          {
+            "singername": "莉莉童 (LIJIN.)",
+            "songname": "臆想"
+          },
+          {
+            "singername": "陈硕子",
+            "songname": "当我要走的时候 (正式版)"
+          },
+          {
+            "singername": "简弘亦",
+            "songname": "赝品"
+          }
+        ],
+        "topTitle": "巅峰榜·腾讯音乐人原创榜",
+        "type": 0
+      },
+      {
+        "id": 36,
+        "listenCount": 6605620,
+        "picUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/toplist_1540785077_36_300_218636951.jpg",
+        "songList": [
+          {
+            "singername": "陈诚",
+            "songname": "年少有为"
+          },
+          {
+            "singername": "K.D",
+            "songname": "刚好遇见你"
+          },
+          {
+            "singername": "Gray",
+            "songname": "体面"
+          }
+        ],
+        "topTitle": "巅峰榜·K歌金曲",
+        "type": 0
+      }
+    ]
+  }
+}

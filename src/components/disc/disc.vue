@@ -7,7 +7,6 @@
 <script type="text/ecmascript-6">
   import MusicList from 'components/music-list/music-list'
   import {getSongList} from 'api/recommend'
-  import {ERR_OK} from 'api/config'
   import {mapGetters} from 'vuex'
   import {createSong} from 'common/js/song'
 
@@ -38,8 +37,7 @@
           return
         }
         getSongList(this.disc.dissid).then((res) => {
-          console.log(res)
-          if (res.code === ERR_OK) {
+          if (res.code === 0) {
             this.songs = this._normalizeSongs(res.cdlist[0].songlist)
           }
         })

@@ -7,7 +7,6 @@
 <script type="text/ecmascript-6">
   import MusicList from 'components/music-list/music-list'
   import {getSingerDetail} from 'api/singerApi'
-  import {ERR_OK} from 'api/config'
   import {createSong} from 'common/js/song'
   import {mapGetters} from 'vuex'
 
@@ -38,8 +37,7 @@
           return
         }
         getSingerDetail(this.singer.id).then((res) => {
-          // console.log(JSON.stringify(res.data))
-          if (res.code === ERR_OK) {
+          if (res.code === 0) {
             let ret = []
             res.data.list.forEach((item) => {
               let {musicData} = item

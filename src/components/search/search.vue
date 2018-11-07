@@ -41,7 +41,6 @@
   import Confirm from 'base/confirm/confirm'
   import Suggest from 'components/suggest/suggest'
   import {getHotKey} from 'api/search'
-  import {ERR_OK} from 'api/config'
   import {playlistMixin, searchMixin} from 'common/js/mixin'
   import {mapActions} from 'vuex'
 
@@ -75,7 +74,7 @@
       },
       _getHotKey() {
         getHotKey().then((res) => {
-          if (res.code === ERR_OK) {
+          if (res.code === 0) {
             this.hotKey = res.data.hotkey.slice(0, 10)
           }
         })

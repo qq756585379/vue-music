@@ -8,7 +8,6 @@
 <script>
   import ListView from 'base/listview/listview'
   import {getSingerList} from 'api/singerApi'
-  import {ERR_OK} from 'api/config'
   import Singer from 'common/js/singer'
   import {mapMutations} from 'vuex'
   import {playlistMixin} from 'common/js/mixin'
@@ -29,8 +28,7 @@
     methods: {
       _getSingerList() {
         getSingerList().then((res) => {
-          if (res.code === ERR_OK) {
-            // console.log(JSON.stringify(res.data))
+          if (res.code === 0) {
             this.singers = this._normalizeSinger(res.data.list)
           }
         })

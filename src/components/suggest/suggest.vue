@@ -28,7 +28,6 @@
   import Loading from 'base/loading/loading'
   import NoResult from 'base/no-result/no-result'
   import {search} from 'api/search'
-  import {ERR_OK} from 'api/config'
   import {createSong} from 'common/js/song'
   import {mapMutations, mapActions} from 'vuex'
   import Singer from 'common/js/singer'
@@ -65,7 +64,7 @@
         this.hasMore = true
         this.$refs.suggest.scrollTo(0, 0)
         search(this.query, this.page, this.showSinger, perpage).then((res) => {
-          if (res.code === ERR_OK) {
+          if (res.code === 0) {
             this.result = this._genResult(res.data)
             this._checkMore(res.data)
           }
@@ -77,7 +76,7 @@
         }
         this.page++
         search(this.query, this.page, this.showSinger, perpage).then((res) => {
-          if (res.code === ERR_OK) {
+          if (res.code === 0) {
             this.result = this.result.concat(this._genResult(res.data))
             this._checkMore(res.data)
           }
