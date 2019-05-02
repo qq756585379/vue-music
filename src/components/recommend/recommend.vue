@@ -36,8 +36,8 @@
 
 <script type="text/ecmascript-6">
   import Scroll from '@/base/scroll/scroll'
-  import {getDiscList} from '@/api/recommend'
-  import {getBanner} from '@/api/api'
+  // import {getDiscList} from '@/api/recommend'
+  import {getBanner, getDiscList} from '@/api/api'
   import Slider from '@/base/slider/slider'
   import Loading from '@/base/loading/loading'
   import {playlistMixin} from 'common/js/mixin'
@@ -65,19 +65,6 @@
           sliderdata.unshift(lastitem)
           this.recommends = sliderdata
         })
-        // getRecommend().then((res) => {
-        //   if (res.code === 0) {
-        //     let sliderdata = res.data.slider
-        //     sliderdata.shift()
-        //     sliderdata.shift()
-        //     let lastitem = sliderdata[sliderdata.length - 1]
-        //     let firstitem = sliderdata[0]
-        //     sliderdata.push(firstitem)
-        //     sliderdata.unshift(lastitem)
-        //     console.log(JSON.stringify(sliderdata))
-        //     this.recommends = sliderdata
-        //   }
-        // })
       },
       _getDiscList() {
         getDiscList().then((res) => {
@@ -98,9 +85,7 @@
         this.$refs.scroll.refresh()
       },
       selectItem(item) {
-        this.$router.push({
-          path: `/recommend/${item.dissid}`
-        })
+        this.$router.push({path: `/recommend/${item.dissid}`})
         this.setDisc(item)
       },
       ...mapMutations({

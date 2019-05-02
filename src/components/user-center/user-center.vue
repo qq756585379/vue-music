@@ -76,8 +76,7 @@
     },
     methods: {
       handlePlaylist(playlist) {
-        const bottom = playlist.length > 0 ? '60px' : ''
-        this.$refs.listWrapper.style.bottom = bottom
+        this.$refs.listWrapper.style.bottom = playlist.length > 0 ? '60px' : ''
         this.$refs.favoriteList && this.$refs.favoriteList.refresh()
         this.$refs.playList && this.$refs.playList.refresh()
       },

@@ -2,7 +2,7 @@ import jsonp from '@/common/js/jsonp'
 import axios from 'axios'
 import {commonParams, options} from './config'
 
-export function getRecommend() {
+export function getBanner() {
   const url = 'https://c.y.qq.com/musichall/fcgi-bin/fcg_yqqhomepagerecommend.fcg'
   const data = Object.assign({}, commonParams, {
     platform: 'h5',
@@ -42,5 +42,15 @@ export function getSongList(disstid) {
     hostUin: 0,
     needNewCode: 0
   })
-  return jsonp(url, data, options)
+  console.log(data)
+  // return jsonp(url, data, options)
+  return axios.get(url, {
+    headers: {
+      referer: 'https://y.qq.com/',
+      host: 'c.y.qq.com'
+    }
+  }, {params: data}).then(res => {
+    console.log(res)
+    return Promise.resolve(res.data)
+  })
 }

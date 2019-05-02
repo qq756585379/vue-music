@@ -1,6 +1,6 @@
 <template>
   <transition name="slide">
-    <music-list :title="title" :bg-image="bgImage" :songs="songs"></music-list>
+    <music-list :title="title" :bg-image="bgImage" :songs="songs"/>
   </transition>
 </template>
 
@@ -23,9 +23,7 @@
       bgImage() {
         return this.disc.imgurl
       },
-      ...mapGetters([
-        'disc'
-      ])
+      ...mapGetters(['disc'])
     },
     created() {
       this._getSongList()
@@ -36,10 +34,12 @@
           this.$router.push('/recommend')
           return
         }
-        getSongList(this.disc.dissid).then((res) => {
+        getSongList(this.disc.dissid).then(res => {
           if (res.code === 0) {
             this.songs = this._normalizeSongs(res.cdlist[0].songlist)
           }
+        }).catch(err => {
+          console.log(err)
         })
       },
       _normalizeSongs(list) {
